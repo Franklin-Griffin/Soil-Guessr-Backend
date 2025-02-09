@@ -1,8 +1,8 @@
+from flask import Flask, request, jsonify
+from flask_cors import CORS
 import os
 import random
 import re
-from flask import Flask, jsonify, request
-from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
@@ -19,8 +19,7 @@ def censor_filename(text, filename):
 def random_file():
     global selected_file
 
-    # Choose a random letter directory (A-Z) from the text-files folder
-    subdir = random.choice([chr(i) for i in range(65, 91)])  # Choose a random letter A to Z
+    subdir = random.choice([chr(i) for i in range(65, 91)])  # Random letter directory A-Z
     path = os.path.join(BASE_DIR, subdir)
 
     if not os.path.exists(path):
@@ -54,6 +53,8 @@ def guess_filename():
     else:
         return jsonify({"message": "Incorrect. Try again!"})
 
-# Vercel requires this for serverless functions
-def handler(event, context):
-    return app(event, context)
+# For Vercel, Flask should be wrapped with a function to work as a serverless function.
+# Vercel Python runtime should automatically detect it
+if __name__ == "__main__":
+    app.run()
+
