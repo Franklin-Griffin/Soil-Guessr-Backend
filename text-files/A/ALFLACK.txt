@@ -1,0 +1,69 @@
+LOCATION ALFLACK                WY
+
+Established Series
+Rev. AMH/LKM/KLS
+03/2022
+
+ALFLACK SERIES
+
+The Alflack series consists of well drained soils which are moderately deep to noncalcareous, fractured sandstone.  They formed in sandstone residuum on mountain hillsides.  Slopes range from 4 to 25 percent.  The mean annual precipitation is about 250 cm, and the mean annual air temperature is about 1 degrees C.
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed Typic Cryorthents
+
+TYPICAL PEDON:  Alflack loamy fine sand--woodland. (Colors are for dry soil unless otherwise stated.)
+
+      Oi--0 to 3 cm; slightly decomposed pine needles and other forest litter.
+
+      A--3 to 8 cm; light brownish gray (10YR 6/2) loamy fine sand, dark grayish brown (10YR 4/2) moist; weak very fine granular structure; soft, very friable, nonsticky and nonplastic; common fine, medium, and coarse roots; moderately acid (pH 6.0); clear wavy boundary. (5 to 13 cm thick)
+
+      C--8 to 59 cm; brownish yellow (10YR 6/6) very channery loamy fine sand, yellowish brown (10YR 5/6) moist; massive; soft, very friable, nonsticky and nonplastic; common medium and fine roots; 35 percent sandstone channers, 10 percent sandstone flagstones; slightly acid (pH 6.2). (43 to 94 cm thick)
+
+      R--59 cm; fractured, noncalcareous sandstone which can be broken and removed with a spade; fragments do not slake.
+
+TYPE LOCATION:  Natrona County, Wyoming; on the top of Casper Mountain; about 150 meters east and 120 meters north of the SW corner of sec. 14, T. 32 N., R. 79 W.
+
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--0 to 3 degrees C
+Mean summer soil temperature--6 to 8 degrees C
+Depth to fractured sandstone bedrock--50 to 100 cm
+Reaction--pH 5.6 to 7.3
+Rock fragments--mainly sandstone channers and flagstones
+
+A horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2 or 3
+Rock fragment content--5 to 30 percent
+
+C horizon
+Value--6 through 8 dry, 4 through 7 moist
+Chroma--2 through 6
+Texture--loamy fine sand or loamy sand
+Rock fragment content--40 to 60 percent
+
+COMPETING SERIES:  These are the Chena, Comad, Gryalock, Mirror Lake, Obscurity, Ovando, Polepatch, Stecum, and Studebaker series.  All of these soils, except Stecum, are deep.  Also, Comad soils have an E and Bt horizons; Obscurity and Studebaker soils contain 15 to 50 percent volcanic ash; and Ovando soils have lamellae.  Stecum soils formed in material weathered from granite and gneiss and contain over 50 percent coarse sand.
+
+GEOGRAPHIC SETTING:  
+Landform--mountain hillsides
+Elevation--2,195 to 2,550 meters
+Slope--4 to 25 percent
+Parent material--residuum derived dominantly from noncalcareous sandstone
+Mean annual precipitation--635 to 890 mm
+Mean annual air temperature--0 to 2 degrees C
+Frost-free period--less than 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Well drained; runoff is slow or medium; rapid permeability.
+
+USE AND VEGETATION:  These soils are used mainly for wood products, wildlife habitat, and recreation.  Native vegetation is mainly lodgepole pine with a sparse understory of grasses and shrubs.
+
+DISTRIBUTION AND EXTENT:  Alflack soils are of small extent in the mountains of Central Wyoming;  MLRAs 48A, 49
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Natrona County, Wyoming; 1985.
+
+REMARKS:  Converted to metric and O horizons were updated to start at zero. 2/2022
+
+National Cooperative Soil Survey
+U.S.A.

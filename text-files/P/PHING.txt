@@ -1,0 +1,129 @@
+LOCATION PHING                  NV
+
+Established Series
+Rev. PWB/MLK/CKS
+02/2022
+
+PHING SERIES
+
+The Phing series consists of very deep, well drained soils that formed in alluvium derived from mixed rocks. Phing soils are on fan remnants and terraces. Slopes are 0 to 15 percent. The mean annual precipitation is nedabout 230 mm and the mean annual temperature is about 9 degrees C.
+
+TAXONOMIC CLASS:  Fine, smectitic, mesic Vertic Paleargids
+
+TYPICAL PEDON:  Phing sandy loam. (Colors are for dry soil unless otherwise noted.) 
+
+    A--0 to 10 centimeters; grayish brown (10YR 5/2) cobbly sandy loam, dark brown (10YR 3/3), moist; weak medium platy structure; slightly hard, very friable, slightly sticky, slightly plastic; common very fine to medium roots; few very fine and fine tubular and many very fine interstitial pores; 20 percent cobbles; neutral, pH 7.2; abrupt wavy boundary.
+
+    E--10 to 23 centimeters; light gray (10YR 7/1) gravelly sandy loam, dark grayish brown (10YR 4/2), moist; moderate very thin platy structure; hard, very friable, slightly sticky, slightly plastic; common very fine roots and few fine roots; few very fine tubular and many very fine interstitial pores; 10 percent cobbles and 20 percent gravels; slightly alkaline, pH 7.4; abrupt wavy boundary. 
+
+    Bt1--23 to 48 centimeters; brown (10YR 5/3) clay, dark yellowish brown (10YR 4/4), moist; strong medium prismatic structure; very hard, very firm, very sticky, very plastic; few very fine and fine roots; few very fine tubular pores; distinct clay films in root channels and/or pores and distinct clay bridges on sand and gravel; 2 percent cobbles and 5 percent gravels; slightly alkaline, pH 7.8; clear wavy boundary. 
+
+   Bt2--48 to 66 centimeters; brown (10YR 5/3) clay, dark yellowish brown (10YR 4/4), moist; strong medium angular blocky structure; very hard, very firm, very sticky, very plastic; few very fine interstitial pores; distinct clay films on faces of peds and in pores and distinct clay bridges on sand and gravel; fine carbonate concretions throughout; 2 percent cobbles and 5 percent gravels; moderately alkaline, pH 8.0; clear wavy boundary. 
+
+   Bt3--66 to 79 centimeters; yellowish brown (10YR 5/4) clay, dark yellowish brown (10YR 4/4), moist; strong medium angular blocky structure; very hard, very firm, very sticky, very plastic; common very fine interstitial pores; distinct clay films on faces of peds and in pores and distinct clay bridges on sand and gravel; fine black (10YR 2/1) iron-manganese concretions; moderately alkaline, pH 8.0; clear wavy boundary.
+
+   Bq1--79 to 119 centimeters; light yellowish brown (10YR 6/4) clay, dark yellowish brown (10YR 4/4), moist; weak fine angular blocky structure; hard, firm, slightly sticky, slightly plastic; few very fine interstitial pores; silica concretions between peds; slightly alkaline, pH 7.8; clear wavy boundary. 
+
+   Bq2--119 to 157 centimeters; brown (10YR 5/3) silty clay loam, dark yellowish brown (10YR 4/4), moist; weak fine subangular blocky structure; hard, firm, slightly sticky, slightly plastic; carbonate concretions between peds; slightly alkaline, pH 7.8. 
+
+   Ck1--157 to 168 centimeters; brown (10YR 5/3) clay loam, moist; moderately sticky, moderately plastic; carbonate masses throughout; 5 percent gravels; strong effervescence; moderately alkaline, pH 8.2. 
+
+   Ck2--168 to 196 centimeters; brown (10YR 5/3) clay, moist; very sticky, very plastic; carbonate masses throughout; 5 percent gravels; strong effervescence; moderately alkaline, pH 8.2. 
+
+   Ck3--196 to 216 centimeters; yellowish brown (10YR 5/4) clay, moist; very sticky, very plastic; carbonate masses throughout; 10 percent gravels; strong effervescence; moderately alkaline, pH 8.0. 
+
+TYPE LOCATION:  Douglas County, Nevada; approximately 1300 ft south and 800 ft east of northwest corner of S21, T11N. R21E.; USGS Gardnerville 7.5 minute topographic quadrangle; latitude 38 degrees 50 minutes 59.58 seconds N. and longitude 119 degrees 35 minutes 3.54 seconds W., WGS84.
+
+RANGE IN CHARACTERISTICS:
+Soil moisture: Usually moist in winter and spring; dry in summer and fall; aridic soil moisture regime that borders on xeric.
+Mean annual soil temperature: 10 to 12 degrees C.
+Depth to base of albic horizon: 15 to 30 cm.
+Depth to base of argillic horizon: 65 to 130 cm.
+Reaction: Neutral to moderately alkaline.
+
+Particle-size control section - Clay content: 40 to 60 percent. 
+Rock fragments: 0 to 15 percent, mainly medium and coarse gravel (5 to 75 millimeters diameter).  
+
+A horizons
+Value: 5 dry, 3 moist.
+Chroma: 2 dry, 3 moist.
+Texture: Sandy loam or gravelly loam.
+Rock Fragments: 0 to 40 percent gravel.
+Structure: Platy or granular.
+Reaction: Neutral.
+Organic matter content: 1 to 2 percent.
+
+E Horizon
+Hue: 10YR
+Value: 7 dry, 4 moist.
+Chroma: 1 dry, 2 moist.
+Texture: Gravelly sandy loam or very gravelly sandy loam.
+Rock Fragments: 15 to 65 percent.
+Structure: Platy or granular.
+Reaction: Slightly alkaline.
+
+Bt horizons
+Hue: 10YR
+Value: 5 dry, 4 moist
+Chroma: 3 or 4 dry, 4 moist
+Texture: Clay or sandy clay.
+Clay content: 40 to 60 percent.
+Rock fragments: 0 to 15 percent gravel.
+Structure: Subangular blocky, angular blocky or prismatic.
+Reaction: Slightly alkaline or moderately alkaline.
+Other Features: 
+Distinct clay films on faces of peds and in pores. 
+Distinct clay bridges on sand and gravel.
+Redoximorphic features: iron-manganese concretions in some pedons. 
+Linear extensibility greater than 6.0 cm.
+
+
+Bq horizons
+Hue: 10YR
+Value: 5 or 6 dry, 4 moist.
+Chroma: 3 or 4 dry, 4 moist.
+Texture: Clay or silty clay loam.
+Rock Fragments: 0 to 15 percent gravel.
+Structure: Angular blocky or subangular blocky
+Reaction: Slightly alkaline.
+Other Features: Silica and or carbonate concretions between peds. Linear extensibility greater than 6.0 cm.
+
+Ck horizons
+Hue: 10YR
+Value: 5, dry.
+Chroma: 3 or 4, dry.
+Texture: Clay or clay loam.
+Rock Fragments: 0 to 15 percent gravel
+Other Features: Carbonate masses throughout. Linear extensibility greater than 6.0 cm.
+
+COMPETING SERIES:  These are the Borda, Campo, Gooding, Mahala, Sorf, Twickenham and Verdico series.
+
+Mahala, Sorf and Verdico soils have paralithic contacts within 100 cm of the soil surface.  Borda soils have lithic contacts within 150 cm of the soil surface. Gooding soils have duripans within 150 cm of the soil surface and lithic contacts within 200 cm of the soil surface. Campo soils do not possess an albic horizon. Twickenham soils formed in colluvium and have greater than 35 percent rock fragments below the particle size control section.
+
+GEOGRAPHIC SETTING:  Phing soils are on fan remnants and terraces.  These soils formed in mixed alluvium.  Slopes are 0 to 15 percent.  Elevations range from 1,500 to 2,000 meters.  The climate is semiarid with cool, moist winters and warm, dry summers.  The mean annual precipitation is 200 to 300 mm, mean annual temperature is 8 to 11 degrees C., and the frost-free period is 100 to 120 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Chalco, Buffaran, Pung, Zephan, Boondock, Springmeyer and Reno soils. Chalco soils are shallow to paralithic contacts and are formed in pedisediment or colluvium over residuum derived from volcanic rocks. Buffaran soils are shallow to duripans. Pung soils have mollic epipedons. Zephan soils have greater than 35 percent rock fragments in the particle size control section and have lithic contacts within 150 cm of the soil surface. Boondock soils formed in residuum and colluvium derived from sedimentary rocks and are shallow to paralithic contacts. Springmeyer soils have mollic epipedons. Reno soils have duripans within 100 cm of the soil surface.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Well drained; slow or medium runoff; low saturated hydraulic conductivity.
+
+USE AND VEGETATION: Phing soils are used for wildlife habitat. The present vegetation is mainly low sagebrush and Thurber's needlegrass. Single leaf pinyon and Utah juniper may be present. 
+
+DISTRIBUTION AND EXTENT:  Western Nevada.  These soils are not extensive.  MLRA 26.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Davis, California.
+
+SERIES ESTABLISHED: The series was proposed in Douglas County, Nevada, 1981.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon - The zone from the soil surface to 10 cm (A horizon).
+Albic horizon - The zone from 10 cm to 23 cm (E horizon).
+Argillic horizon - The zone from 23 to 79 cm (Bt1, Bt2 and Bt3 horizons).
+Identifiable secondary carbonates - The zone from 157 to 216 cm (Ck horizons).
+Abrupt textural change - The upper boundary of the argillic horizon at 23 cm.
+Vertic subgroup - The zone between 23 to 216 cm has linear extensibility greater than 6.0 cm (Bt, Bq and Ck horizons).
+Particle-size control section - The zone from 23 to 79 cm (Bt1, Bt2 and Bt3 horizons).
+
+ADDITIONAL DATA: Typical pedon user pedon ID 1976NV005001.
+
+National Cooperative Soil Survey
+U.S.A.

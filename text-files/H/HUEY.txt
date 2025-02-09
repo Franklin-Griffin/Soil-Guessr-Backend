@@ -1,0 +1,144 @@
+LOCATION HUEY                   IL
+
+Established Series
+Revised FLA-LLB-TJE
+09/2022
+
+HUEY SERIES
+
+The Huey series consists of very deep, poorly drained soils on till plains. They formed in loess, or in loess and the underlying pedisediment. Slope ranges from 0 to 2 percent. Mean annual temperature is about 13 degrees C (55 degrees F), and mean annual precipitation is about 991 millimeters (39 inches).
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, mesic Typic Natraqualfs
+
+TYPICAL PEDON: Huey silt loam, on a nearly level slope in a cultivated field at an elevation of about 191 meters (628 feet) above mean sea level. (Colors are for moist soil unless otherwise stated.)
+
+ Ap--0 to 20 centimeters (0 to 8 inches); dark grayish brown (2.5Y 4/2) silt loam, light brownish gray (2.5Y 6/2) dry; moderate fine granular structure; friable; common fine roots; neutral; abrupt smooth boundary. [15 to 25 centimeters (6 to 10 inches) thick]
+
+ E--20 to 25 centimeters (8 to 10 inches); grayish brown (2.5Y 5/2) silt loam; weak thin platy structure parting to weak fine granular; friable; common fine roots; moderately acid; clear smooth boundary. [5 to 18 centimeters [(2 to 7 inches) thick]
+
+ Btg1--25 to 38 centimeters (10 to 15 inches); dark grayish brown (2.5Y 4/2) silty clay loam; moderate medium subangular blocky structure; firm; few fine roots; few distinct grayish brown (10YR 5/2) clay films on faces of peds; common distinct light gray (10YR 7/2) dry silt coats on faces of peds in upper 8 centimeters (3 inches); few fine prominent yellowish brown (10YR 5/6) masses of oxidized iron; few fine black (N 2.5/) iron-manganese masses; neutral; clear smooth boundary.
+
+ Btg2--38 to 46 centimeters (15 to 18 inches); grayish brown (2.5Y 5/2) silty clay loam; moderate coarse subangular blocky structure; firm; few fine roots; few distinct grayish brown (10YR 5/2) clay films on faces of peds; few fine prominent yellowish brown (10YR 5/6) masses of oxidized iron; few fine black (N 2.5/) iron-manganese masses; moderately alkaline; clear smooth boundary.
+
+ Btg3--46 to 58 centimeters (18 to 23 inches); grayish brown (2.5Y 5/2) silty clay; moderate coarse subangular blocky structure; very firm, few fine roots; common distinct grayish brown (10YR 5/2) clay films on faces of peds; few fine and medium prominent yellowish brown (10YR 5/6) masses of oxidized iron; few fine black (N 2.5/) iron-manganese masses; few white (N 8/) calcium carbonate masses; moderately alkaline; gradual smooth boundary.
+
+ Btg4--58 to 86 centimeters (23 to 34 inches); grayish brown (2.5Y 5/2) silty clay loam; moderate coarse subangular blocky structure; firm; few fine roots; few distinct grayish brown (10YR 5/2) clay films on faces of peds; few medium and coarse prominent yellowish brown (10YR 5/6) masses of oxidized iron; few fine black (N 2.5/) iron-manganese masses; moderately alkaline; gradual smooth boundary.
+
+ Btg5--86 to 124 centimeters (34 to 49 inches); grayish brown (2.5Y 5/2) silty clay loam; moderate coarse angular blocky structure; firm; few fine roots; few distinct grayish brown (10YR 5/2) clay films on faces of peds; common coarse prominent dark yellowish brown (10YR 4/6) masses of oxidized iron; few fine and coarse black (N 2.5/) iron-manganese masses; moderately alkaline; gradual smooth boundary. [Combined thickness of the Btg horizon is 25 to 117 centimeters (10 to 46 inches).]
+
+ 2BCg--124 to 145 centimeters (49 to 57 inches); light brownish gray (10YR 6/2) silt loam; weak coarse subangular blocky structure; firm; few faint grayish brown (10YR 5/2) clay films on faces of peds and lining crayfish holes and pores; common coarse prominent yellowish brown (10YR 5/6) and dark yellowish brown (10YR 4/6) masses of oxidized iron; few fine black (N 2.5/) iron-manganese masses; about 20 percent sand; moderately alkaline; gradual smooth boundary. [0 to 56 centimeters (0 to 22 inches) thick]
+
+ 2Cg--145 to 165 centimeters (57 to 65 inches); light brownish gray (10YR 6/2) loam; massive; friable; common coarse prominent dark yellowish brown (10YR 4/6) masses of oxidized iron; moderately alkaline.
+
+TYPE LOCATION: Effingham County, Illinois; about 8 miles west and 2.75 miles north of Effingham; 1,040 feet east and 1,290 feet south of the northwest corner of sec. 12, T. 8 N., R. 4 E.
+
+USGS topographic quadrangle--Shumway, Illinois
+Latitude 39.1595198
+Longitude -88.7063522
+Datum--WGS84
+Coordinate source--estimated from GIS layer
+
+RANGE IN CHARACTERISTICS: 
+Thickness of the solum--81 to more than 152 centimeters (32 to more than 60 inches)
+Particle-size control section--averages 20 to 35 percent clay, although one or more subhorizon commonly is finer and contains as much as 43 percent clay
+Thickness of the loess--some pedons have the entire solum and the upper part of the C horizon formed in loess and lack 2B and 2C horizons within a depth of 152 centimeters (60 inches) 
+Depth to the top of the natric horizon--within 41 centimeters (16 inches) of the soil surface and within 15 cm (6 inches) of the top of the argillic horizon
+
+Ap horizon--
+Hue--10YR or 2.5Y
+Value--4 or 5 (5 or 6 dry)
+Chroma--1 or 2
+Reaction--strongly acid to neutral, but is slightly alkaline in some pedons
+
+Some pedons have an A horizon less than 15 centimeters (6 inches) in thickness that has color value of 3.
+
+E horizon--
+Hue--10YR or 2.5Y
+Value--4 to 7
+Chroma--2
+Texture--silt loam or silt
+Redoximorphic features, where present--hue of 7.5YR or 10YR, value of 4 or 5, and chroma of 2 to 6, with iron-manganese concretions in some pedons
+Reaction--moderately acid to neutral, but ranges from strongly acid to slightly alkaline
+
+Some pedons have a BE horizon as much as 15 centimeters (6 inches) in thickness.
+
+Btg or Bt horizon--
+Hue--10YR, 2.5Y, or 5Y
+Value--4 to 6
+Chroma--1 or 2, but ranges to 3 in some subhorizons
+Texture--silty clay loam, but some subhorizons range to silty clay or silt loam
+Structure--medium or coarse subangular blocky, prismatic, columnar, or angular blocky structure
+Ped surface features--clay films have a chroma of 1 or 2
+Redoximorphic features--hue of 7.5YR or 10YR, value of 4 to 6, and chroma of 1 to 8, with iron-manganese concretions in some pedons
+Exchangeable sodium content--15 percent to more than 35 percent in one or more subhorizon
+Reaction--moderately acid to moderately alkaline in the upper part, slightly alkaline to strongly alkaline in the lower part, and some pedons contain calcium carbonate concretions
+
+BCg or 2BCg horizon, where present--
+Hue--10YR, 2.5Y, or 5Y
+Value--4 to 6
+Chroma--1 or 2, but ranges to 3 in some subhorizons
+Texture--silt loam or silty clay loam
+Ped surface features--some pedons do not have clay films in the BCg or 2BCg horizon
+Redoximorphic features--hue of 7.5YR or 10YR, value of 4 to 6, and chroma of 1 to 8
+Reaction--slightly alkaline to strongly alkaline, and some pedons contain free carbonates
+
+Cg or 2Cg horizon--
+Hue--7.5YR, 10YR, 2.5Y, or 5Y
+Value--4 to 6
+Chroma--typically 1 or 2, but redoximorphic features have chroma of 1 to 8, and some pedons have about even distribution of high and low chroma colors
+Texture--silt loam, or less commonly silty clay loam in the Cg horizon; loam or silt loam, or less commonly silty clay loam in the 2Cg horizon
+Reaction--neutral to moderately alkaline, and some pedons contain free carbonates
+
+COMPETING SERIES: 
+There are no other series in this family.
+
+GEOGRAPHIC SETTING: 
+Huey soils are on broad ground moraines on till plains of Illinoian age. Slope ranges from 0 to 2 percent. Huey soils formed in loess, or in loess and the underlying pedisediment which overlie a strongly developed Sangamon age paleosol in Illinoian till at depths of 102 to 178 centimeters (40 to 70 inches).
+
+Mean annual temperature--11.7 to 13.9 degrees C (53 to 57 degrees F)
+Mean annual precipitation--889 to 1118 millimeters (35 to 44 inches)
+Frost-free period--175 to 195 days
+Elevation--118 to 199 meters (388 to 654 feet) above mean sea level
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Cisne soils lack a natric horizon, are fine-textured, and are on similar or slightly higher positions nearby or are mixed in an intricate pattern with Huey soils on similar positions. 
+Cowden soils lack a natric horizon, are fine-textured, and are on similar positions nearby or on adjacent areas farther from the drainageways. 
+Darmstadt soils are somewhat poorly drained and are on higher or more sloping positions nearby.
+Grantfork soils are somewhat poorly drained, lack a natric horizon, and are on steeper side slopes in more dissected parts of the till plain. 
+Hoyleton and Oconee soils are somewhat poorly drained, lack a natric horizon, and are on slightly higher or more convex parts nearby.
+Piasa soils have a thicker, dark colored surface layer, are fine-textured, and are on similar positions nearby or on adjacent areas farther from the drainageways.
+Rushville and Wynoose soils lack a natric horizon, are fine-textured, and are on similar positions.
+Tamalco soils are moderately well drained, fine-textured, and are on higher positions on crests or side slopes of ridges or on lower positions on side slopes of drainageways. 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class--poorly drained
+Water table--depth to the top of an apparent water table ranges from 15 centimeters (6 inches) above the surface to 30 centimeters (1 foot) below the surface between January and May in normal years
+Saturated hydraulic conductivity class--low
+Permeability class--very slow
+
+USE AND VEGETATION: 
+Most areas are cultivated. Corn, soybeans, small grain, and meadow are the principal crops. Native vegetation is prairie grasses and sedges.
+
+DISTRIBUTION AND EXTENT: 
+Southern Illinois in MLRA 113. The series is moderately extensive.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Indianapolis, Indiana
+
+SERIES ESTABLISHED: Lawrence County, Illinois, 1952
+
+REMARKS: 
+Typical Pedon Taxonomic Features--
+Ochric epipedon--from the surface to a depth of 25 centimeters (Ap, E horizons)
+Albic horizon--from a depth of 20 to 25 centimeters (E horizon)
+Natric horizon--from a depth of 25 to 124 centimeters (Btg1, Btg2, Btg3, Btg4, and Btg5 horizons)
+Aquic conditions--redoximorphic features in all horizons below the Ap horizon
+
+A bench phase is recognized for soils on structural benches that occur along some of the major tributaries of the Mississippi River. 
+
+Taxonomic Version--Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+ADDITIONAL DATA:
+Characterization data is available for supporting pedons from the NRCS-NSSC Kellogg Soil Survey Laboratory, Lincoln, Nebraska.
+
+National Cooperative Soil Survey
+U.S.A.

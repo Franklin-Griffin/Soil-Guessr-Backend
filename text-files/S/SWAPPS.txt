@@ -1,0 +1,87 @@
+LOCATION SWAPPS                 UT+WY
+
+Established Series
+REV:  WRM/JTB/KLS
+07/2022
+
+SWAPPS SERIES
+
+The Swapps series consists of moderately deep, well drained, moderately permeable soils on nearly level to gently sloping mesa tops and moderately steep to very steep sideslopes of mesas, hills and mountains. They formed in colluvium and residuum from limestone and shale.  Slopes range from 5 to 65 percent.  The mean annual precipitation is about 560 mm and the mean annual air temperature is 4 degrees C.
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive Inceptic Haplocryalfs
+
+TYPICAL PEDON:  Swapps gravelly loam--woodland.  (Colors are for air-dry soil unless otherwise stated.)
+
+    Oe--0 to 3 cm; partially to well decomposed needles and twigs.
+
+    A--3 to 11 cm; brown (7.5YR 5/4) gravelly loam, dark brown (7.5YR 3/4) moist, crushed; weak thin platy and weak medium granular structure; loose, friable, nonsticky and nonplastic; many very fine roots; common very fine pores; 15 percent pebbles; slightly acid (pH 6.5); abrupt smooth boundary.  (3 to 13 cm thick)
+
+    Bt--11 to 24 cm; yellowish red (5YR 5/6) gravelly loam, reddish brown (5YR 4/4) moist, crushed; weak fine and medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine pores; common thin clay films on faces of peds and many thin clay films in pores and root channels; 20 percent fine pebbles; slightly calcareous; slightly alkaline (pH 7.5); abrupt wavy boundary.  (13 to 43 cm thick)
+
+    Bk1--24 to 42 cm; brown (7.5YR 4/2) gravelly loam, dark brown (7.5YR 3/2) moist, crushed; massive; soft, friable, slightly sticky and slightly plastic; many very fine and fine common medium and coarse roots; few fine pores; 30 percent fine pebbles; strongly calcareous; moderately alkaline (pH 8.0); abrupt wavy boundary.  (15 to 23 cm thick)
+
+    Bk2--42 to 62 cm; pink (7.5YR 7/4) very gravelly loam, reddish yellow (7.5YR 6/6) moist, crushed; massive; slightly hard, friable, slightly sticky and slightly plastic; few fine and many coarse roots; few fine pores; 60 percent pebbles; very strongly calcareous; moderately alkaline (pH 8.0); abrupt wavy boundary. 
+
+    R--62 cm; limestone.
+
+TYPE LOCATION:  Kane County, Utah; Robinson Canyon northwest of Horse Hollow; NW 1/4 of sec. 12, T. 39 S., R. 5 W.
+
+RANGE IN CHARACTERISTICS:
+Depth to fractured bedrock--50 to 100 cm
+Soil moisture--usually moist in some part of the soil between depths of 10 and 30 cm
+Mean annual soil temperature--2 to 6 degrees C
+Mean summer soil temperature--11 to 14 degrees C at a depth of 50 cm  
+The A horizon is noncalcareous. However, carbonates increase with increasing depth to very strongly calcareous in the lower Bk horizon.
+
+A horizon
+Hue--5YR to 10YR
+Value--4 or 5 dry, 2 to 4 moist
+Chroma--2 to 6
+
+Bt horizon
+Hue--2.5YR to 7.5YR
+Value--4 to 6 dry, 2 to 4 moist
+Chroma--3 to 6
+Texture--loam or clay loam
+Rock Fragment content--20 to 35 percent gravel and cobbles
+
+Bk horizon
+Hue--2.5YR to 10YR
+Value--4 to 8 dry, 3 to 7 moist
+Chroma--2 to 8 
+Texture--sandy loam, loam or clay loam
+Rock fragment content--15 to 60 percent gravel and cobbles
+
+COMPETING SERIES:  These are the Beardall, Bramard, Dunlatop (T), Hub (T), Nisula, Rimton (T), Stringam (T), Telcher, Ula, and Wix series.  Beardall soils have an E/B horizon and have a noncalcareous Bt horizon.  Bramard, Dunlatop (T), Hub (T), Nisula, Stringam (T) and Telcher soils have bedrock deeper than 100 cm.  Rimton (T) and Ula soils have a paralithic contact between 50 and 100 cm.  Wix soils have colors of 10YR hue or yellower in the B horizons.
+
+GEOGRAPHIC SETTING:  
+Landform--mesa tops and side slopes of mesas, hills and mountains
+Elevation--2375 to 2925 meters
+Slope--5 to 65 percent
+Parent material--colluvium and residuum from limestone and shale
+Average annual precipitation--430 to 690 mm
+Mean annual air temperature--2 to 6 degrees C
+Average summer temperature--11 to 14 degrees C
+Frost-free period--55 to 70 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Well drained; moderate permeability
+
+USE AND VEGETATION:  These soils are used for timber, rangeland, recreation and wildlife.  The native vegetation is Douglas-fir, Engelmann spruce, manzanita, creeping barberry, creeping juniper, fescues and bromegrasses.
+
+DISTRIBUTION AND EXTENT:  Swapps soils are moderately extensive in southcentral Utah and in the Wind River mountains of Wyoming; MLRAs 43B and 47
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Kane County (Paunsaugunt Soil Survey Area), Utah, 1969
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--3 to 11 cm (A horizon)
+Argillic horizon--11 to 24 cm (Bt horizon)
+Mollic features--moist color value of 3 or less after mixing the upper 15 cm of the soil
+
+Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
+
+National Cooperative Soil Survey
+U.S.A.

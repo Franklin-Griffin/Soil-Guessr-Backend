@@ -1,0 +1,99 @@
+LOCATION SPUD                   NM
+
+Established Series
+Rev. SLS-GWA-KLS
+03/2023
+
+SPUD SERIES
+
+The Spud series consists of deep, well drained, very slowly permeable soils that formed in fine textured alluvium, colluvium, or residuum weathered from basalt with modification from underlying sandstone and shale.  These soils are on mountainsides and have slopes of 5 to 60 percent.  The mean annual precipitation is about 480 mm, and the mean annual air temperature is about 6 degrees C.
+
+TAXONOMIC CLASS: Fine, smectitic, frigid Typic Haplustalfs
+
+TYPICAL PEDON:  Spud very stony loam, on a west facing slightly convex lower mountainside with a slope of 25 percent in a mixed conifer woodland at 2500 meters elevation.  When described, the soil was nearly dry throughout.  (Colors are for dry soils unless otherwise noted.)
+
+    O--0 to 5 cm; decomposing forest litter.
+
+    A--5 to 18 cm; dark gray (N 4/) very stony loam, black (N 2/) moist; moderate fine and very fine granular structure; soft, very friable, slightly sticky and slightly plastic; many fine, very fine, medium and coarse roots; many fine and very fine interstitial pores; 15 percent stones, 30 percent cobbles, and 5 percent gravel; slightly acid; clear smooth boundary.  (13 to 20 cm thick)
+
+    E1--18 to 33 cm; brown (10YR 5/3) very stony loam, brown (10YR 4/3) moist; very weak medium subangular blocky structure parting to moderate fine and medium granules; soft, friable, slightly sticky and slightly plastic; many fine, very fine, medium and coarse roots; many fine, medium and coarse tubular pores; 15 percent stones, 20 percent cobbles, and 5 percent gravel; slightly acid; clear wavy boundary.  (0 to 18 cm thick)
+
+    E2--33 to 61 cm; brown (10YR 5/3) very stony loam, brown (10YR 4/3) moist; weak medium and coarse subangular blocky structure parting to strong medium and coarse granules; hard, friable, slightly sticky and slightly plastic; many fine, very fine, medium and coarse roots; many fine, medium and coarse tubular pores; 10 percent stones, 20 percent cobbles, and 5 percent gravel; slightly acid; clear wavy boundary.  (15 to 30 cm thick)
+
+    B/E--61 to 71 cm; brown (7.5YR 5/4) clay loam, 70 percent brown (7.5YR 4/4) and 30 percent brown (7.5YR 5/4) moist; weak and moderate medium and coarse subangular blocky structure; hard, firm, sticky and plastic; many tubular pores; few and common thin clay films on faces of peds and in pores of B material; 5 percent stones, 6 percent cobbles, and 3 percent gravel; slightly acid; clear wavy boundary.  (0 to 13 cm thick)
+
+    Bt1--71 to 96 cm; reddish brown (5YR 5/4) clay, reddish brown (5YR 4/4) moist; strong medium and coarse subangular blocky structure; very hard, very firm, very sticky and very plastic; common fine, very fine, and coarse and many medium roots; many fine, very fine, and common coarse tubular pores; many thin clay films on faces of peds and in pores; few medium pockets of E material in upper part; 8 percent stones, 3 percent cobbles, and 3 percent gravel; neutral; gradual wavy boundary.
+
+    Bt2--96 to 129 cm; reddish brown (5YR 5/4) clay, reddish brown (5YR 4/4) moist; strong medium and coarse subangular blocky structure; very hard, very firm, very sticky and very plastic; few fine and very fine, common medium and coarse roots; many fine and very fine tubular pores; many thin and few moderately thick clay films on faces of peds; 8 percent stones, 3 percent cobbles, and 3 percent gravel; neutral; gradual wavy boundary.
+
+    Bt3--129 to 147 cm; reddish brown (5YR 5/4) stony clay loam, reddish brown (5YR 4/4) moist; strong coarse subangular blocky structure; very hard, very firm, very sticky and very plastic; common fine and medium roots; many fine tubular pores; many thin and very few moderately thick clay films on faces of peds; 8 percent stones, 4 percent cobbles, and 3 percent gravel; neutral; gradual wavy boundary.  (Combined thickness of Bt1, Bt2, and Bt3 - 60 to 100 cm)
+
+    Bt4--147 to 177 cm; reddish brown (5YR 5/4) stony clay loam, reddish brown (5YR 4/4) moist; moderate coarse subangular blocky structure; very hard, firm, sticky and plastic; many fine, very fine, medium and coarse roots; many fine and very fine tubular pores; few and common thin clay films, many medium black root channels, and many medium black blotches on faces of peds; 8 percent stones, 4 percent cobbles, and 3 percent gravel; neutral; diffused irregular boundary.  (0 to 30 cm thick)
+
+    BC--177 to 202 cm; reddish brown (5YR 5/4) very stony sandy clay loam, reddish brown (5YR 4/4) moist; moderate coarse subangular blocky structure; very hard, firm, slightly sticky and plastic; many fine and very fine tubular pores; few thin clay films and many medium black blotches on faces of peds; 20 percent stones, 15 percent cobbles, and 5 percent gravel; neutral.
+
+TYPE LOCATION:  Mora County, New Mexico; about 9 km northwest of Ocate via Black Lake Road; about 6 meters east of the mountain road in the northwest quarter of sec. 2, T.23N., R.17E., in the Mora Land Grant.
+
+RANGE IN CHARACTERISTICS:  
+Solum thickness--100 to 150 cm or more
+Reaction of solum--neutral or slightly acid in the upper part and neutral or mildly alkaline in the lower part.
+
+A horizon
+Hue--neutral hue, 10YR or 7.5YR
+Value--3 through 5 dry, 2 or 3 moist
+Chroma--0 through 3
+Texture--loam, fine sandy loam or silt loam
+Rock fragment content--10 to 15 percent stones, 20 to 30 percent cobbles, and 5 to 10 percent gravel
+
+E horizons
+Hue--10YR through 5YR
+Value--4 through 6 dry, 3 through 5 moist
+Chroma--2 through 4
+Texture--loam or fine sandy loam
+Rock fragment content--10 to 20 percent stones, 20 to 30 percent cobbles, and 5 to 10 percent gravel
+
+Bt horizons
+Hue--7.5YR through 2.5YR
+Value--4 through 6 dry, 3 through 5 moist
+Chroma--4 through 6
+Texture--clay, silty clay or heavy clay loam
+Rock fragment content--0 to 10 percent stones, 0 to 5 percent cobbles, and 0 to 5 percent gravel in the upper part and 5 to 10 percent stones, 3 to 15 percent cobbles, and 3 to 10 percent gravel in the lower part
+
+BC horizon
+Hue--7.5YR through 2.5YR
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--4 through 6
+Texture--sandy clay loam, sandy clay, heavy loam, or clay loam
+Rock fragment content--15 to 30 percent stones, 10 to 15 percent cobbles, and 10 to 15 percent gravel
+
+Some pedons have C horizons.
+
+COMPETING SERIES:  These are the Acel, Burnac, Dandrea, Iles and Siesta series.  Acel soils have secondary calcium carbonate accumulation at depth of 40 to 65 cm.  Burnac soils have a solum less than 100 cm thick.  Dandrea soils have a paralithic contact at a depth of 50 to 100 cm.  Iles soils have secondary calcium carbonate accumulation at depths less than 100 cm.  Siesta soils are moderately alkaline and have cinders in the lower Bt horizon.
+
+GEOGRAPHIC SETTING:
+Landform--gently sloping to extremely steep mountain slopes
+Elevation--2450 to 3050 meters
+Slope--5 to 60 percent
+Parent material--fine textured alluvium, colluvium, or residuum weathered from basalt with modification from underlying sandstone and shale
+Mean annual precipitation--460 to 510 mm
+Mean annual air temperature--4 to 7 degrees C
+Frost free period--80 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
+
+DRAINAGE AND PERMEABILITY:  Well drained; medium or rapid runoff; very slow permeability.
+
+USE AND VEGETATION:  Most areas of the Spud soils are used for commercial woodland, wildlife habitat, and recreation.  Vegetation is mainly Douglas-fir, white fir, limber pine, aspen, Engelmann and blue spruce, and mountain grasses.
+
+DISTRIBUTION AND EXTENT:  Spud soils are of moderate extent in northern New Mexico; MLRA 48A.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Mora County, New Mexico; 1981
+
+REMARKS:  Lab reference number: 79P2012-2020
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 02/2023
+
+National Cooperative Soil Survey
+U.S.A.

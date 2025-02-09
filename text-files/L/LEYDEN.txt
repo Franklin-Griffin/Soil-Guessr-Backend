@@ -1,0 +1,122 @@
+LOCATION LEYDEN                 CO
+
+Established Series
+Rev. AEA-GB-KLS
+05/2023
+
+LEYDEN SERIES
+
+The Leyden series consists of moderately deep, well drained soils that formed in gravelly and cobbly slope alluvium or colluvium overlying interbedded shale and sandstone. Leyden soils are on side slopes and ridges, and dip slopes of homoclinal ridges and hogbacks.  Slopes are 5 to 70 percent. The mean annual precipitation is about 405 mm and the mean annual air temperature is about 8 degrees C.
+
+TAXONOMIC CLASS: Fine, smectitic, mesic Aridic Argiustolls
+
+TYPICAL PEDON: Leyden cobbly clay loam - grassland. (Colors are for dry soil unless otherwise noted.)
+
+    A--0 to 8 cm; very dark grayish brown (10YR 3/2) cobbly clay loam, very dark brown (10YR 2/2) moist; weak fine granular structure; slightly hard, friable, sticky; 20 percent cobbles; neutral (pH 6.8); clear smooth boundary. (8 to 13 cm thick)
+
+    BA--8 to 20 cm; dark grayish brown (10YR 4/2) gravelly heavy clay loam, very dark grayish brown (10YR 3/2) moist; weak medium subangular blocky structure parting to weak fine granular; slightly hard, friable, sticky; 20 percent pebbles; neutral (pH 6.6); clear smooth boundary. (0 to 13 cm thick)
+
+    Bt1--20 to 48 cm; brown (10YR 4/3) gravelly heavy clay loam, dark brown (10YR 3/3) moist; moderate medium prismatic structure parting to moderate medium subangular blocky; hard, firm, sticky; common thin clay films on the faces of peds; 20 percent pebbles; neutral (pH 6.6); gradual smooth boundary. 
+
+    Bt2--48 to 74 cm; brown (10YR 5/3) gravelly clay, brown (10YR 4/3) moist; weak coarse subangular blocky structure parting to weak medium subangular blocky; hard, firm, very sticky; common thin clay films on the faces of peds; 20 percent pebbles; neutral (pH 6.8); gradual wavy boundary. (Combined thickness of the Bt horizons - 28 to 58 cm) 
+
+    BC--74 to 89 cm; light yellowish brown (2.5Y 6/4) gravelly heavy clay loam, olive brown (2.5Y 4/4) moist; weak coarse prismatic structure parting to weak coarse subangular blocky; hard, firm, very sticky; 20 percent pebbles; neutral (pH 7.0); clear smooth boundary. (0 to 18 cm thick) 
+
+    Cr--89 cm; light yellowish brown (2.5Y 6/4) mudstone, olive brown (2.5Y 4/4) moist; slightly alkaline (pH 7.8).
+
+TYPE LOCATION: Jefferson County, Colorado; approximately 5 kilometers west of Denver Federal Center; 43 meters east and 64 meters south of center of sec. 7, T. 4 S., R. 69 W.
+
+RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature - 8 to 11 degrees C
+Depth to paralithic contact - 50 to 100 cm
+
+Particle-size control section (weighted average): 
+Clay content - 35 to 50 percent
+Sand content - more than 15 percent fine sand or coarser
+Rock fragment content - 15 to 35 percent gravel and cobbles
+
+A horizon
+Hue: 10YR or 2.5Y
+Value: 3 through 5 dry, 2 or 3 moist
+Chroma: 2 or 3 dry or moist
+Rock fragment content: 15 to 35 percent, dominantly cobbles or stones
+Reaction: pH 6.6 to 7.8
+
+Bt horizons
+Hue: 10YR or 2.5Y
+Value: 4 through 5 dry, 3 or 4 moist
+Chroma: 2 or 3 dry or moist
+Texture: clay or clay loam
+Rock fragment content: 15 to 35 percent gravel or cobbles
+Reaction: pH 6.6 to 7.8
+
+C horizon, when present
+Hue: 10YR or 2.5Y
+Value: 5 through 7 dry, 4 through 6 moist
+Chroma: 4 through 6, dry or moist
+Texture: clay loam or sandy clay loam
+Rock fragment content: 15 to 35 percent gravel or cobbles
+Reaction: pH 7.4 to 8.4
+
+Cr horizon - weathered interbedded shale and sandstone
+
+COMPETING SERIES: 
+Atrail (CO) - have horizons with secondary calcium carbonate accumulations
+Bethune (CO) - have calcic horizons
+Blackpipe (SD) - have less than 15 percent fine sand or coarser
+Boneek (SD) - are deep
+Boquillas (AZ) - have horizons of lithologic discontinuities
+Chapin (CO) - are moderately deep to lithic contact
+Collbran (CO) - are deep 
+Collide (CO) - are deep
+Emigrant (CO) - have less than 15 percent rock fragments 
+Huggins (SD) - have less than 15 percent fine sand or coarser
+Kube (SD) - are deep; have less than 15 percent fine sand or coarser
+Loma (CO) - are deep; have less than 15 percent rock fragments
+Nuncho (WY) - are deep; have less than 15 percent rock fragments
+Nunn (CO) - are deep; have less than 15 percent rock fragments
+Querc (WY) - have slightly acid reaction throughout
+Raku (CO) - are deep; have less than 15 percent rock fragments
+Rednun (CO) - are deep; have less than 15 percent rock fragments
+Richfield (KS) - are deep; have less than 15 percent rock fragments
+Ryus (KS) - are deep; have less than 15 percent rock fragments
+Savo (SD) - are deep; have less than 15 percent rock fragments 
+Showlow (AZ) - are deep; have lithologic discontinuities
+Standley (CO) - are deep
+Thunderbird (AZ) - are moderately deep to lithic contact
+Weld (CO) - are very deep; have less than 15 percent rock fragments 
+Wormser (CO) - are moderately deep to lithic contact
+
+GEOGRAPHIC SETTING: 
+Landform - side slopes and ridges, and dip slopes of hogbacks and homoclinal ridges
+Elevation - 1,225 to 2,100 meters
+Slopes - 5 to 70 percent
+Parent material - gravelly and cobbly slope alluvium or colluvium over residuum of interbedded shale and sandstone
+Mean annual air temperature - 7 to 11 degrees C
+Mean annual precipitation - 330 to 430 mm
+Frost-free period - 115 to 145 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
+
+DRAINAGE AND PERMEABILITY: Well drained; medium to rapid runoff; slow permeability.
+
+USE AND VEGETATION: Leyden soils are used primarily for grazing, recreation, wildlife, and community development. Native vegetation is blue grama, little bluestem, sideoats grama, needleandthread, western wheatgrass, forbs, and shrubs.
+
+DISTRIBUTION AND EXTENT: Leyden soils are of small extent in the foothills along the eastern front of the Rocky Mountains in central Colorado; MLRA 49.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED: Golden Area Soil Survey, Jefferson County, Colorado, 1980.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon - 0 to 20 cm (A and AB horizons)
+Argillic horizons - 20 to 74 cm (Bt1 and Bt2 horizons)
+Depth to paralithic contact - 89 cm to bedrock (Cr horizon)
+Particle-size control section - 20 to 70 cm (Bt1 and part of Bt2 horizons)
+
+Leyden soils have a mesic soil temperature regime and an ustic soil moisture regime.
+
+Converted to metric, formatting updated to current standards, and competing series section updated. 04/2020
+
+National Cooperative Soil Survey
+U.S.A.

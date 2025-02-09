@@ -1,0 +1,89 @@
+LOCATION SWIMS                  MT
+
+Established Series
+Rev. CAM/DRC/KLS
+11/2022
+
+SWIMS SERIES
+
+The Swims series consists of deep, well drained soils that formed in calcareous alluvium derived from argillite, quartzite, and dolomitic limestone from the Belt formation.  These soils are on high bottom lands and low terraces.  Slopes are 0 to 7 percent.  Mean annual precipitation is about 410 mm, and mean annual air temperature is about 6 degrees C.
+
+TAXONOMIC CLASS:  Fine-silty, mixed, superactive, frigid Fluventic Haplustepts
+
+TYPICAL PEDON:  Swims silty clay loam (colors are for dry soil unless otherwise noted).
+
+	Oa--0 to 3 cm; forest litter consisting of pine needles and leaves of deciduous shrubs, well decomposed and matted in the lower 0.5 cm.
+
+	A--3 to 6 cm; dark gray (10YR 4/1) silt loam, black (10YR 2/1) moist; moderate thin platy and moderate medium granular structure; slightly hard, very friable; neutral (pH 7.0); clear lower boundary.  (3 to 8 cm thick)
+
+	E--6 to 14 cm; light brownish gray (10YR 6/2) light silty clay loam, very dark grayish brown (10YR 3/2) moist; moderate medium and coarse platy and weak fine and medium subangular blocky structure; slightly hard, very friable; many fine pores and root channels; noncalcareous; neutral (pH 7.0); abrupt lower boundary. (5 to 10 cm thick)
+
+	Bw--14 to 32 cm; pinkish gray (7.5YR 7/2) light silty clay loam, brown (7.5YR 4/2) moist; weak coarse prismatic and fine and medium subangular blocky structure; blocks are very porous and have a few smooth accommodating faces but are without clay coating on the surfaces; slightly hard, friable; thin clay coating in root channels and worm burrows; noncalcareous; neutral (pH 7.0); clear lower boundary.  (13 to 20 cm thick)
+
+	Bk--32 to 47 cm; pinkish gray (7.5YR 7/2) silt loam, brown (7.5YR 5/2) moist; weak coarse prismatic and thick platy structure parting to weak medium subangular blocks; few faint mottles of pale brown on interior of peds; slightly hard, friable; many pores and root channels, some of which have thin clay coating; calcareous; clear lower boundary.  (13 to 20 cm thick)
+
+	CBk--47 to 67 cm; very pale brown (10YR 7/3) silt loam, brown (10YR 5/3) moist with few faint fine yellowish brown mottles; massive in place except horizontal thin strata (coarse plates) that break easily to fine blocks; slightly hard, firm; numerous fine pores and a few roots and root channels; strongly calcareous with a few fine white lime segregations; gradual lower boundary.  (25 to 50 cm thick)
+
+	C1--67 to 141 cm; pinkish white (7.5YR 8/2) silt loam, pinkish gray (7.5YR 6/2) moist; massive except horizontal strata 0.5 to 2 cm thick; firm; moderately friable; calcareous but no segregated lime.
+
+	C2--141 to 156 cm; calcareous loamy fine sand.
+
+TYPE LOCATION:  Unknown.
+
+RANGE IN CHARACTERISTICS:
+Average annual soil temperature--3 to 7 degrees C
+
+A horizons
+Texture--silt loam or silty clay loam
+Clay content--18 to 35 percent
+Reaction--pH 5.6 to 7.3
+
+Bw horizon
+Texture--silt loam or silty clay loam
+Clay content--18 to 35 percent
+Reaction--pH 6.1 to 7.8
+
+Bk horizon 
+Texture--silt loam or silty clay loam
+Clay content--18 to 35 percent
+Calcium carbonate equivalent--5 to 15 percent
+Reaction--pH 7.4 to 8.4
+
+C and CBk horizons
+Texture--very fine sandy loam or silty clay loam
+Clay content--18 to 30 percent
+Calcium carbonate equivalent--5 to 10 percent
+Electrical conductivity--0 to 3 mmhos/cm
+Reaction--pH 7.4 to 8.4
+
+COMPETING SERIES:  There are no competing series.
+
+GEOGRAPHIC SETTING: 
+Landform--nearly level high flood plains or low terraces of rivers and streams
+Elevations--790 to 1025 meters
+Slopes--0 to 7 percent
+Parent material--calcareous alluvium derived from argillite, quartzite, and dolomitic limestone from the Belt formation
+Mean annual precipitation--380 to 460 mm
+Mean annual air temperature--4 to 7 degrees C
+Frost-free period--100 to 120 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Moderately well drained
+
+USE AND VEGETATION:  Swims soils are used mainly for timber and growing small grains.  Potential native vegetation is mainly ponderosa pine with an understory of pine grass, common snowberry, elk sedge, heartleaf arnica, white spirea and mahonia.
+
+DISTRIBUTION AND EXTENT:  Swims soils are moderately extensive in western Montana.  MLRA 44A.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Bozeman, Montana
+
+SERIES ESTABLISHED:  Upper Flathead Valley Area, Montana, 1957.  The name is taken from a creek in Flathead County.
+
+REMARKS:  Soil Interpretations Records:  MT0631 and MT9054
+
+The Swims series was originally classified as Fine-silty, mixed, frigid Typic Eutrochrepts. This series was established in 1957 and was first transferred to the OSD database in 2009. The classification was reviewed and updated at this time. 3/2009
+
+Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 11/2022
+
+National Cooperative Soil Survey
+U.S.A.

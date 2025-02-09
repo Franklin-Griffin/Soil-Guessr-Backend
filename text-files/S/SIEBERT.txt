@@ -1,0 +1,91 @@
+LOCATION SIEBERT                CO
+
+Established Series
+Rev. AJC-LF-KLS
+05/2023
+
+SIEBERT SERIES
+
+The Siebert series consists of moderately deep, well drained soils that formed in residuum derived from schist and micaceous gneiss or sedimentary rocks.  These soils are on gently to steeply sloping hills, ridges, and mountain side slopes. Slopes are 2 to 50 percent. The mean annual precipitation is about 510 mm and the mean annual air temperature is about 2 degrees C.
+
+TAXONOMIC CLASS: Loamy-skeletal, micaceous Lamellic Haplocryalfs
+
+TYPICAL PEDON:  Siebert gravelly loamy sand - forest.  (Colors are for dry soil unless otherwise noted.)
+
+    Oi--0 to 3 cm; undecomposed organic material mostly needles, bark, twigs, and leaves.
+
+    Oe--3 to 6 cm; partly decomposed organic matter like that of the horizon above.
+
+    E--6 to 44 cm; light brownish gray (10YR 6/2) gravelly loamy sand, grayish brown (10YR 5/2) moist; thick platy structure that parts to fine granules; soft, very friable; enough mica in medium and large platelets to give the fine earth a soap-like consistence when moist and crushed; 40 percent gravel and cobbles; few stones; slightly acid (pH 6.4); gradual wavy boundary.  (10 to 50 cm thick)
+
+    Bt--44 to 90 cm; mixed light brownish gray (10YR 6/2), yellowish brown (10YR 5/4) and light olive brown (2.5Y 5/4) gravelly loamy sand containing discontinuous lamellae of sandy loam, loam, and sandy clay loam 0.5 to 2 cm in thickness, grayish brown (10YR 5/2), dark yellowish brown (10YR 4/4) moist, and olive brown (2.5Y 4/4) moist; moderate medium subangular blocky structure that parts to fine subangular blocky structure or granules; slightly hard, very friable; some of the more clayey peds are hard, friable; enough mica flakes to give the fine earth fraction a soap-like consistence when moist and crushed; continuous wax-like coatings on the faces of the more clayey peds and in some root channels and pores; wax-like bridges between some sand grains; 45 percent gravel and cobbles; few stones; slightly acid (pH 6.4); gradual wavy boundary. (25 to 90 cm thick)
+
+    Cr--90 to 133 cm; partly weathered mica schist.
+
+TYPE LOCATION:  Jackson County, Colorado; about 130 meters north and 400 meters east of S1/4 corner Sec. 32, T. 12 N., R. 81 W.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--4 degrees C
+Mean summer soil temperature--11 degrees C
+Base saturation--60 to 100 percent in all subhorizons of the argillic horizon
+Depth to paralithic contact--50 to 100 cm
+Depth to top of argillic horizon--less than 60 cm
+Depth to base of argillic horizon--45 to 100 cm
+Rock fragment content--35 to 75 percent in a major part of the solum and C horizon; mainly 5 to 250 mm in diameter.  
+Sand and silt fractions contain 5 to 40 percent or more of flat mica platelets of sufficient size to affect the soils physical condition.
+Thin A horizons are present in some pedons, and C horizons may occur above the shist.
+
+A horizon, if present
+Hue--2.5Y through 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--1 through 3
+Reaction--pH 5.6 to 7.3
+
+E horizon
+Hue--2.5Y through 7.5YR
+Value--5 through 8 dry, 4 through 7 moist
+Chroma--1 through 6
+Reaction--pH 5.6 to 7.3
+
+Bt horizon
+Hue--5Y through 7.5YR
+Value--5 through 8 dry, 4 through 7 moist
+Chroma--1 through 6
+Texture--lamellae is sandy loam, sandy clay loam, loam or clay loam in a coarse textured (loamy sand or sand) matrix.  If mixed proportionately to their occurrence in the pedon the composite texture of the fine earth fraction in the lamellae and matrix is not finer than loamy fine sand.  
+Reaction--pH 5.6 to 7.3
+
+C horizon, if present above the schist
+Hue--5Y through 7.5YR; subhorizons redder than 7.5YR occur in some pedons
+Texture--gravelly or very gravelly loamy sand or sand
+Reaction--pH 5.6 to 7.3
+
+COMPETING SERIES:  These are the Hyannis, Troutville, and Yochum series.   Hyannis soils have only small amounts of mica and lack the physical properties introduced by high mica content.  Troutville soils lack a paralithic contact within the control section.  Yochum soils have hue of 5YR or redder and have little or no mica.
+
+GEOGRAPHIC SETTING: 
+Landform--gently to steeply sloping hills, ridges, and mountainsides
+Elevation--2450 to 3000 meters
+Slope--2 to 50 percent
+Parent material--micaceous residuum weathered from schist and micaceous gneiss or sedimentary rocks
+Mean annual precipitation--410 to 510 mm with peak periods of precipitation in the spring and summer
+Mean annual air temperature--1 to 2 degrees C
+Mean summer air temperature--11 degrees C
+Frost-free period--30 to 35 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
+
+DRAINAGE AND PERMEABILITY:  Well drained; slow to very slow runoff; rapid permeability.
+
+USE AND VEGETATION:  They are used as grazing land and for timber production.  Native vegetation is lodgepole pine, spruce, fir, wild rose, and juniper.
+
+DISTRIBUTION AND EXTENT:  Siebert soils are of small extent in mountainous areas of northcentral Colorado; MLRA 48A.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Jackson County Colorado 1973.
+
+REMARKS:  The mineralogy class was changed from paramicaceous to micaceous in 07/2010 by the National Soil Survey Center on request of the responsible MLRA regional office.  The change was necessary based on the eleventh edition of the Keys to Soil Taxonomy, 2010.
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 05/2023
+
+National Cooperative Soil Survey
+U.S.A.

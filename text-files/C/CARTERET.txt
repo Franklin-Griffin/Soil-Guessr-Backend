@@ -1,0 +1,118 @@
+LOCATION CARTERET               NC+VA
+
+Established Series
+Rev. MCR/RBT
+07/2023
+
+CARTERET SERIES
+
+MLRA(s): 153B
+Soil Survey Regional Office (SSRO) Responsible: Raleigh, North Carolina
+Depth Class: Very deep
+Drainage Class (Agricultural): Very poorly drained
+Saturated Hydraulic Conductivity Class: High to very high
+Landscape: Coastal Plain
+Landform: Back barrier island tidal marshes
+Parent Material: Sandy marine deposits
+Slope: 0 to 2 percent
+Elevation (type location): 0 meters
+Frost Free Period (type location): 260 days
+Mean Annual Air Temperature: 17 degrees C. (63 degrees F.)
+Mean Annual Precipitation: 1346 millimeters (53 inches)
+
+TAXONOMIC CLASS: Mixed, thermic Typic Psammaquents
+
+TYPICAL PEDON: Carteret mucky loamy sand on a 0 percent slope in a polyhaline tidal marsh. (Colors are for moist soil unless otherwise stated.)
+
+ Ase--0 to 13 cm (0 to 5 inches); black (10YR 2/1) mucky loamy sand, light brownish gray (10YR 6/2) dry; weak medium granular structure; friable; slightly fluid; slightly sticky, nonplastic; no sulfurous odor; many fine, medium, and coarse roots throughout; 2 percent gravel-size shell fragments; neutral (pH 7.05), slightly acid (pH 6.36) after moist incubation; slightly effervescent with 30% hydrogen peroxide; clear smooth boundary. (8 to 23 cm thick)
+
+ ACse--13 to 30 cm (5 to 12 inches); dark grayish brown (2.5Y 4/2) loamy sand; weak medium subangular blocky structure; very friable; nonfluid; nonsticky, nonplastic; no sulfurous odor; many fine, medium, and coarse roots throughout; 5 percent gravel-size shell fragments; neutral (pH 7.16), strongly acid (pH 5.39) after moist incubation; slightly effervescent with 30% hydrogen peroxide; clear smooth boundary. (0 to 28 cm thick)
+
+ Cseg1--30 to 55 cm (12 to 22 inches); dark greenish gray (10Y 4/1) sand; single grain; loose; nonfluid; nonsticky, nonplastic; moderate sulfurous odor; common fine and medium roots throughout; common coarse prominent black (10YR 2/1) iron monosulfide soft masses; slightly alkaline (pH 7.61), extremely acid (pH 4.21) after moist incubation; slightly effervescent with 30% hydrogen peroxide; clear smooth boundary. 
+
+ Cseg2--55 to 72 cm (22 to 28 inches); greenish gray (10Y 5/1) sand; single grain; loose; nonfluid; nonsticky, nonplastic; slight sulfurous odor; few fine roots throughout; common very dark gray (10YR 3/1) organic stains and root channels; 5 percent gravel-size shell fragments; slightly alkaline (pH 7.71), extremely acid (pH 4.47) after moist incubation; slightly effervescent with 30% hydrogen peroxide; gradual smooth boundary.
+
+ Cseg3--72 to 114 cm (28 to 45 inches); greenish gray (10Y 5/1) sand; single grain loose; nonfluid; nonsticky, nonplastic; slight sulfurous odor; 5 percent gravel-size shell fragments; slightly alkaline (7.55 pH), slightly acid (pH 6.11) after moist incubation; slightly effervescent with 30% hydrogen peroxide; gradual smooth boundary.
+
+ Cseg4--114 to 171 cm (45 to 67 inches); gray (5Y 5/1) sand; single grain; loose; nonfluid; nonsticky, nonplastic; slight sulfurous odor; 2 percent gravel-size shell fragments; slightly alkaline (7.53 pH), slightly acid (pH 6.22) after moist incubation; slightly effervescent with 30% hydrogen peroxide; clear smooth boundary.
+
+ Cseg5--171 to 203 cm (67 to 80 inches); dark gray (5Y 4/1) sand; single grain; loose; nonfluid; nonsticky, nonplastic; slight sulfurous odor; 2 percent gravel-size shell fragments; moderately alkaline (8.26 pH), slightly alkaline (pH 7.40) after moist incubation; slightly effervescent with 30% hydrogen peroxide. (152 to 192 cm thick)
+
+TYPE LOCATION: Dare County, North Carolina; approximately 6,100 feet southeast of the base of the Oregon Inlet Bridge as it enters Rodanthe on NC Highway 12, 750 feet west of Highway 12 in a tidal marsh; USGS Oregon Inlet topographic quadrangle; latitude 35 degrees 45 minutes 12.85 seconds N. and longitude 75 degrees 30 minutes 48.68 seconds W. WGS84.
+
+RANGE IN CHARACTERISTICS:
+Solum Thickness ranges from 8 to 48 centimeters (3 to 19 inches)
+Depth to Bedrock:  Greater than 200 cm (80 inches)
+Soil Reaction: Moderately acid to moderately alkaline, throughout the profile.  Moist incubated soil reactions range from extremely acid to slightly alkaline.
+Shell Fragments: 0 to 35 percent, by volume throughout with their shelly analogs.
+
+RANGE OF INDIVIDUAL HORIZONS:
+Oase, Oese, Oa, or Oe horizons (where present): 
+Some pedons have organic horizons <20 cm in total thickness at the soil surface. 
+Color--hue 7.5YR to 2.5Y, value of 2 to 3, and chroma of 1 to 3.
+Texture--muck or mucky peat. 
+
+Ase or A horizon:
+Color--hue of 10YR to 5Y, value of 2 to 5, and chroma of 1 to 3. 
+Texture--sandy loam, loamy sand, or sand with mucky analogs.
+
+ACse or ACseg horizon (where present):
+Color--hue of 10YR to 5GY or is neutral, value of 3 to 6, and chroma of 0 to 2. 
+Texture--loamy sand or sand.
+
+Cseg or Cg horizons:
+Color--hue of 10YR to 5BG or is neutral, value of 4 to 6, and chroma of 0 to 2. 
+Texture--loamy sand or sand. In some pedons thin intermittent layers of clay loam, silty clay loam, or layers of shell are present.
+
+Aseb or Ab horizons (where present):
+Some pedons have buried surfaces within 200 cm of the modern soil surface.
+Color--hue of 10YR to 5Y, value of 2 to 5, and chroma of 1 to 3. 
+Texture--sandy loam, loamy sand, or sand. Some Aseb or Ab horizons have mucky modified textures. 
+
+COMPETING SERIES:
+Camocca soils--are slightly higher on the landscape with better drainage with less frequent flooding
+Dello and Lang soils--are in floodplains and do not receive daily tidal flooding
+Duckston and Osier soils--have siliceous mineralogy and are not flooded daily by tides.
+
+GEOGRAPHIC SETTING:
+Landscape:  Coastal Plain
+Landform: Back barrier island tidal marshes (Atlantic Coast)
+Elevation: 0.3 meters below sea level to 1 meter
+Parent Material: Sandy marine deposits (some locations do have a thin eolian sand deposits on the surface)
+Frost Free Period: 200 to 270 days
+Mean Annual Air Temperature: 14 to 21 degrees C. (58 to 70 degrees F.)
+Mean Annual Precipitation: 1,143 to 1,524 millimeters (45 to 60 inches)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Bohicket and Capers soils--have more than 35 percent clay throughout
+Corolla soils--occur slightly higher on the landscape and do not contain sulfides within the particle size control section
+Currituck soils--are on similar landscapes and contain thick organic soil materials
+Fripp and Newhan soils--occur higher on the landscape, have very deep water tables, and do not contain sulfides
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class (Agricultural): Very poorly drained
+Saturated Hydraulic Conductivity: High to very high
+Internal Free Water Occurrence: Very shallow, 0 to 25 cm (0 to 10 inches) continuously
+Flooding: Very frequently flooding for extremely or very brief durations (daily high tides)
+
+USE AND VEGETATION:
+Major uses: Natural habitat for fish and shellfish production; a few areas are used for grazing and some areas have been diked and filled for use as water-front homesites. Dominant vegetation: Black needlerush, with lesser amounts of big cordgrass, and marsh hay. The needlerush vegetation often is immediately adjacent to the upland eolian sand dune areas on the Outer Banks.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina
+
+DISTRIBUTION AND EXTENT:
+Distribution: Outer banks and sound area of North Carolina and Virginia
+Extent: Moderate
+
+SERIES ESTABLISHED: Carteret County, North Carolina; 1975.
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon - the zone from the surface to a depth of 30 centimeters. (Ase and ACse horizons).
+Peraquic feature - continuously endo saturated soil profile with very frequent tidal flooding.
+
+ADDITIONAL DATA: This series sampled as S2022NC055001. Data can be obtained from NC State University.
+Database Information: Representative Pedon Data Mapunit--466111
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

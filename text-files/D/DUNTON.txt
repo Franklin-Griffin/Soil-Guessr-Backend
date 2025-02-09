@@ -1,0 +1,79 @@
+LOCATION DUNTON                 CO
+
+Established Series
+Rev. RFB/RHM/KLS
+09/2022
+
+DUNTON SERIES
+
+The Dunton series consists of moderately deep well drained soils formed in materials weathered from sandstone.  Dunton soils are on mesa tops and cuesta dip slopes.  Slopes range from 0 to 30 percent.  The mean annual precipitation is about 640 mm and the mean annual air temperature is about 7 degrees C.  
+
+TAXONOMIC CLASS: Fine, smectitic, frigid Typic Paleustalfs
+
+TYPICAL PEDON:  Dunton loam - forest.  (Colors are for dry soil unless otherwise noted.)
+
+    Oi--0 to 5 cm; undecomposed or slightly decomposed forest litter.
+
+    E--5 to 66 cm; pinkish gray (7.5YR 6/2) loam, brown (7.5YR 4/2) moist; moderate medium granular structure; loose; neutral; clear irregular boundary.  (60 to 75 cm thick)
+
+    E/B--66 to 74 cm; pinkish gray (7.5YR 6/2) loam, brown (7.5YR 4/2) moist (60 percent) and brown (7.5YR 4/4) clay loam; dark brown (7.5YR 3/4) moist; E portion has moderate medium granular structure, loose, friable; B portion has medium subangular blocky structure; hard, firm; slightly sticky, slightly plastic; this horizon consists of tongues and fingers of the lighter colored material extending into and intermixed with the clayey material like that of the underlying horizon; slightly acid; clear wavy boundary.  (8 to 20 cm thick)
+
+    Bt--74 to 99 cm; brown (7.5YR 4/4) heavy clay loam, dark brown (7.5YR 3/4) moist; moderate medium and coarse subangular blocky structure; hard, firm, sticky, plastic; few roots, many continuous thin clay films on peds; slightly acid; clear wavy boundary.  (8 to 36 cm thick)
+
+    R--99 cm; hard, reddish brown and buff colored sandstone.
+
+TYPE LOCATION:  Archuleta County, Colorado; NE 1/4 of Sec. 13, T. 35 N., R. 3 W.
+
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--5 to 8 degrees C
+Mean summer soil temperature--11 to 14 degrees C 
+Depth to the argillic horizon--60 to 75 cm  
+Depth to sandstone bedrock--75 to 100 cm 
+Reaction--pH 5.6 to 7.3
+Total rock fragment content--0 to 25 percent, predominately 13 to 38 cm in diameter
+Thin A horizons up to 8 cm thick are present in some pedons.
+
+A horizon, if present
+Hue--10YR or 7.5YR
+
+E horizon
+Hue--10YR or 7.5YR
+Value--6 or 7 dry, 4 through 6 moist
+Chroma--1 or 2
+
+Bt horizon
+Hue--5YR through 10YR
+Value--4 through 6 dry, 3 through 5 moist
+Chroma--3 through 6
+Texture--heavy clay loam or clay
+Clay content--35 to 50 percent
+
+Thin C horizons are present in some pedons.
+
+COMPETING SERIES:  There are no competing series in the same family.  Fortwingate soils are similar, but lack an E/B horizon and have an argillic horizon with its upper boundary above a depth of 60 cm.
+
+GEOGRAPHIC SETTING:  
+Landform--mesa tops and cuesta dip slopes
+Elevation--2300 to 3050 meters
+Slope--nearly level to 30 percent
+Parent material--sandstone residuum 
+Mean annual precipitation--510 to 760 mm
+Mean annual air temperature--7 degrees C
+Mean summer temperature--12 degrees C
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Moderately well drained; slow permeability
+
+USE AND VEGETATION:  These soils are used principally for timber production and range.  Principal overstory plants are ponderosa pine and some Gambel oak with an understory of grasses and shrubs.
+
+DISTRIBUTION AND EXTENT:  Dunton soils are of moderate extent in western and southwestern Colorado. MLRA 43B
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Archuleta County (Piedra Area), Colorado, 1974
+
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 3/2022
+
+National Cooperative Soil Survey
+U.S.A.

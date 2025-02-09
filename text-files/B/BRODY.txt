@@ -1,0 +1,84 @@
+LOCATION BRODY                  ID
+
+Established Series
+Rev. LMR/CLM/KLS
+08/2022
+
+BRODY SERIES
+
+The Brody series consists of moderately deep, well drained soils that formed in loess including volcanic ash and in residuum and colluvium from extrusive igneous rocks.  Brody soils are on mountains and have slopes of 7 to 90 percent.  Permeability is moderate.  The average annual precipitation is about 860 mm and the average annual air temperature is about 4 degrees C.
+
+TAXONOMIC CLASS: Ashy-skeletal, mixed Typic Vitricryands
+
+TYPICAL PEDON:  Brody cobbly silt loam - forested (Colors are for dry soil unless otherwise noted).
+
+    Oi--0 to 2 cm; undecomposed needles, leaves, cones, and twigs; very strongly acid (pH 4.5); abrupt broken boundary.  (0 to 3 cm thick)
+
+    Oe--2 to 5 cm; very dark brown (10YR 2/2) partially decomposed needles, leaves, cones, and wood; extremely acid (pH 4.4); abrupt broken boundary.  (0 to 5 cm thick)
+
+    Oa--5 to 6 cm; very dark brown (10YR 2/2) well-decomposed organic matter; strongly acid (pH 5.2 ); abrupt wavy boundary.  (0 to 2 cm thick)
+
+    Bs1--6 to 14 cm; brown (7.5YR 5/4) cobbly silt loam, dark brown (7.5YR 3/3) moist; moderate very fine and fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many fine and medium roots; many very fine irregular pores; about 20 percent cobbles and gravel; moderately acid (pH 5.9); gradual wavy boundary.  (0 to 13 cm thick)
+
+    Bs2--14 to 39 cm; brown (7.5YR 5/4) cobbly silt loam, brown (7.5YR 4/3) moist; weak very fine and fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many fine and medium roots; many very fine irregular pores; about 15 percent cobbles and gravel; slightly acid (pH 6.2); clear wavy boundary.  (20 to 38 cm thick)
+
+    Bs3--39 to 82 cm; brown (7.5YR 5/4) extremely gravelly silt loam, dark brown (7.5YR 3/4) moist; weak medium subangular blocky structure that parts to weak very fine and fine granular; slightly hard, very friable, slightly sticky and slightly plastic; common fine and medium roots; many very fine tubular pores; about 75 percent basalt fragments, mostly angular gravel and cobbles; moderately acid (pH 6 .1); gradual irregular boundary.  (13 to 50 cm thick)
+
+    R--82 cm; basalt bedrock.  Fractured in upper part.
+
+TYPE LOCATION:  Idaho County, Idaho; eastward on Lolo Creek Road about 485 meters past Cedar Creek Road, then right about 805 meters to pit on right of road; NE 1/4 SW 1/4 sec. 7, T.34N., R.6E.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 7 degrees C
+Mean summer soil temperature--7 to 8 degrees C
+Thickness of O horizon volcanic ash mantle--36 to 100 cm
+Volcanic glass content in the 0.02 to 2.0 mm fraction--30 to 50 percent
+Acid-oxalate extractable Al, plus 1/2 Fe--1.5 to 3.0 percent 
+Phosphate retention--25 to 50 percent
+15-bar water retention on air dry samples--9 to 12 percent
+Moist bulk density--0.85 to 1.00 g/cc
+Lithic contact--50 to 100 cm
+Total rock fragment content--50 to 80 percent
+A faint or thin A or E horizon is present in some pedons.
+
+Bs horizons
+Hue--10YR, 7.5YR or 5YR
+Chroma--dominant 3 or 4, range to 5 or 6
+Texture--upper part:  silt loam, loam, sandy loam 
+Base saturation--30 to 60 percent
+Rock fragment content--15 to 35 percent in upper part; 35 to 90 percent in lower part
+
+COMPETING SERIES:  These are the Goatrock (T), Joebaldy (T), and Longjohn (T) series.  Goatrock and Longjohn soils are very deep.  Joebaldy soils are moderately deep to fragmental material.
+
+GEOGRAPHIC SETTING:
+Landform--mountains
+Elevation--640 to 1825 meters
+Slope--20 to 90 percent
+Parent material--loess including volcanic ash; residuum and colluvium weathered from Columbia River basalt; or andesite or greenstone from the Seven Devils volcanoes
+Average annual precipitation--710 to 1000 mm, including 1.5 to 3 meters of snow
+Average annual temperature--2 to 6 degrees C
+Frost-free season--less than 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Well drained; moderate permeability
+
+USE AND VEGETATION:  Used for timber production, recreation, wildlife habitat, and watershed.  Vegetation is mainly western redcedar, western white pine, grand fir, western larch, Douglas fir, and Pacific yew with an understory of dogwood, lambstongue, huckleberry, Prince's pine, Paxistima, and twinflower.
+
+DISTRIBUTION AND EXTENT:  Brody soils are moderately extensive in north central Idaho and the surrounding regions; MLRAs 43B and 43C  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Idaho County, Idaho, 1973
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--6 to 39 cm (Bs1 and Bs2 horizons)
+Cambic horizon--39 to 82 cm (Bs3 horizon)
+Lithic contact--82 cm (R horizon)
+
+The classification was changed from Loamy-skeletal, mixed Andic Cryochrepts to Ashy-skeletal Typic Vitricryands. 03/1992
+
+Converted to metric, updated formatting, and O horizons were updated to start at zero. 8/2022
+
+National Cooperative Soil Survey
+U.S.A.

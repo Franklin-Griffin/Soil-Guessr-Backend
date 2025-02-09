@@ -1,0 +1,96 @@
+LOCATION CONICAL                WY
+
+Tentative Series
+Rev. JH-AB-KLS
+03/2023
+
+CONICAL SERIES
+
+The Conical series consists of well drained soils that are moderately deep to weathered schist bedrock.  They formed in residuum and colluvial slope wash materials derived from chlorite schist and amphibolite.  Conical soils are on mountain slopes and ridges.  Slopes are 10 to 45 percent.  The mean annual precipitation is about 710 mm, and the mean annual air temperature is about 4 degrees C.
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Typic Haplocryalfs
+
+TYPICAL PEDON:  Conical gravelly loam-lodgepole pine.  (Colors are for dry soil unless otherwise stated.)
+
+      Oe--0 to 8 cm; partially decomposed conifer litter.
+
+      A--8 to 16 cm; pale brown (10YR 6/3) gravelly loam, brown (10YR 4/3) moist; weak fine granular structure; soft, friable, slightly sticky and nonplastic; common fine, coarse, and medium roots; common fine and medium interstitial pores; 25 percent angular gravel and 5 percent angular cobbles; moderately acid (pH 5.6); clear smooth boundary.  (0 to 23 cm thick)
+
+      E--16 to 41 cm; light gray (10YR 7/2) very gravelly loam, brown (10YR 5/3) moist; weak medium subangular blocky structure parting to medium fine granular; slightly hard, friable, slightly sticky and nonplastic; common fine and few very fine roots; common very fine interstitial pores; 35 percent angular gravel and 5 percent angular cobbles; strongly acid (pH 5.4); gradual wavy boundary.  (10 to 36 cm thick)
+
+      Bt1--41 to 69 cm; light yellowish brown (10YR 6/4) very gravelly clay loam, yellowish brown (10YR 5/4) moist; moderate fine subangular blocky structure; hard, firm, sticky and slightly plastic; few medium and fine roots; few fine interstitial pores; common distinct clay films on faces of peds and lining pores; 40 percent angular gravel and 5 percent angular cobbles; strongly acid (pH 5.4); gradual wavy boundary.
+
+      Bt2--69 to 94 cm; light yellowish brown (10YR 6/4) extremely gravelly clay loam, yellowish brown (10YR 5/4) moist; moderate medium and fine subangular blocky structure; hard, firm, sticky and slightly plastic; few fine roots; few fine interstitial pores; common prominent clay films on faces of peds; 65 percent angular gravel; moderately acid (pH 5.6); abrupt wavy boundary.  (Combined thickness of the Bt horizon is 40 to 70 cm)
+
+      Cr--94 to 122 cm; yellowish brown (10YR 5/4) weakly consolidated weathered schist.
+
+      R--122 cm; hard schist bedrock.
+
+TYPE LOCATION:  Carbon County, Wyoming; SE1/4, NW1/4 of Sec. 5, T. 17 N., R. 79 W.  Lat. 41 degrees 28 minutes 41 seconds N; long. 106 degrees 18 minutes 4 seconds W.
+
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--4 to 8 degrees C
+Mean summer soil temperature--7 to 11 degrees C
+Depth to bedrock--50 to 100 cm  
+About one-third of the pedons observed have hard bedrock between 100 and 150 cm underlying the Cr horizon.
+
+A horizon
+Hue--10YR or 2.5Y
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--2 through 4
+Rock fragment content--20 to 30 percent angular gravel or channers; 5 to 25 percent angular cobbles
+Reaction--pH 5.1 to 6.0
+
+E horizon
+Hue--10YR or 2.5Y
+Value--6 or 7 dry, 4 or 5 moist
+Chroma--2 or 3
+Texture--loam, sandy loam, or sandy clay loam
+Clay content--15 to 25 percent
+Rock fragment content--20 to 40 percent angular gravel or channers, 0 to 15 percent angular cobbles, and 0 to 5 percent flagstones
+Reaction--pH 4.5 to 6.5
+
+Bt horizon
+Hue--10YR or 2.5Y
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--2 through 4
+Texture--clay loam or sandy clay loam
+Clay content--20 to 35 percent
+Rock fragment content--25 to 60 percent angular gravel or channers, 0 to 35 percent cobbles, and 0 to 5 percent flagstones
+Reaction--pH 5.1 to 6.0
+
+COMPETING SERIES:  These are the Agneston, Angostura, Cadotte, Cloud Peak, Cundiyo, Duchesne, Frisco, Gambler, Granile, Guffey, Hardzem, Helmville, Hollandlake, Hyattville, Kebler, Lake Creek, Lakehelen, Larand, Leadville, Lulude, MacFarlane, Needleton(T), Presa, Redondo, Tamarron(T), Tenrag(T), Tigeron, Tolvar, Trebor, and Worock series.  The Agneston, Cloud Peak, Hyattville, Kebler, Lake Creek, Lakehelen, Lulude, and Trebor soils have a lithic contact at 50 to 100 cm.  The Angostura, Cadotte, Cundiyo, Duchesne, Frisco, Gambler, Granile, Helmville, Hollandlake Larand, Leadville, MacFarlane, Needleton, Presa, Redondo, Tenrag, Tigeron, Tolvar, and Worock soils are deep or very deep.  Guffey soils are similar but formed in grus, lack the mica derived from schist, contain from 50 to 70 percent coarse and medium granitic sand and occur in areas of 430 mm of precipitation.  Tamarron soils formed in alluvium and colluvium derived dominantly from sandstone and shale.
+
+GEOGRAPHIC SETTING:  
+Landform--sloping to steeply sloping convex mountain slopes and ridges
+Elevation--2600 to 3050 meters
+Slope--10 to 45 percent
+Parent material--residuum and colluvial slope wash derived from chlorite schist and amphibolites of the Deep Lake Formation
+Mean annual precipitation--640 to 760 mm
+Mean annual air temperature--3 to 6 degrees C
+Frost-free period--less than 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
+
+DRAINAGE AND PERMEABILITY:  Well drained; runoff is medium; permeability is moderate.
+
+USE AND VEGETATION:  The current major uses of Conical soils are timber, watershed, and wildlife habitat.  The native vegetation is lodgepole pine, subalpine fir, Englemann spruce, whortleberry, dwarf juniper, fleabane, and elk sedge.  The dominant vegetation is lodgepole pine and whortleberry.
+
+DISTRIBUTION AND EXTENT:  Conical soils are of small extent in the mountains of northwest and southcentral Wyoming; MLRA 48A.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES PROPOSED:  Carbon County, Wyoming; 1984
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--8 to 16 cm (A horizon)
+Albic horizon--16 to 41 cm (E horizon)
+Argillic horizon--41 to 94 cm (Bt1 and Bt2 horizons)
+Paralithic contact--94 to 122 cm to weakly consolidated bedrock (Cr horizon)
+Lithic contact--122 cm to hard bedrock (R horizon)
+Particle-size control section--41 to 91 cm (Bt1 horizon and part of the Bt2 horizon)
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 01/2023
+
+National Cooperative Soil Survey
+U.S.A.

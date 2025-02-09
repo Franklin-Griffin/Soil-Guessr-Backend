@@ -1,0 +1,87 @@
+LOCATION NORTHWATER             CO+ID UT
+
+Established Series
+Rev. DKA/GB/KLS
+07/2022
+
+NORTHWATER SERIES
+
+The Northwater series consists of deep well drained soils formed in material derived from sedimentary rocks.  Northwater soils are on mountainsides, foot slopes and swales.  Slopes range from 5 to 65 percent.  The mean annual precipitation is about 510 mm and the mean annual air temperature is about 4 degrees C.
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Pachic Palecryolls
+
+TYPICAL PEDON:  Northwater loam - aspen.  (Colors are for dry soil unless otherwise noted.)
+
+    Oe--0 to 5 cm; organic material.
+
+    A1--5 to 30 cm; brown (10YR 4/3) loam, very dark grayish brown (10YR 3/2) moist; moderate fine granular structure; soft, very friable, slightly sticky and slightly plastic; many fine and very fine roots; neutral; clear smooth boundary.  (25 to 35 cm thick)
+
+    A2--30 to 68 cm; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; moderate fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many fine and very fine roots; 10 percent pebbles; neutral; clear wavy boundary.  (25 to 50 cm thick)
+
+    Bt--68 to 127 cm; light brown (7.5YR 6/4) very channery clay loam, brown (7.5YR 4/4) moist; moderate medium subangular blocky structure parting to moderate fine subangular blocks; hard, friable, sticky and plastic; common medium and large roots; common thin clay films and organic coats on faces of peds and along root channels; 50 percent channers, mostly 2.25 to 8 cm in length; neutral; clear wavy boundary.  (50 to 125 cm thick)
+
+    R--127 cm; fractured sandstone.
+
+TYPE LOCATION:  Garfield County, Colorado; 122 meters south and 46 meters west of the center of Sec. 12, T. 5 S., R. 96 W.
+
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--3 to 7 degrees C
+Mean summer soil temperature--less than 8 degrees C
+Depth to bedrock--greater than 100 cm but usually is within 175 cm
+Thickness of mollic epipedon--50 to 135 cm
+Depth to top of argillic horizon--60 cm or more
+Reaction--pH 6.1 to 8.2 and is noncalcareous throughout
+
+A horizon
+Hue--7.5YR through 2.5Y
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3
+Rock fragment content--typically 0 to 15 percent channers or gravels of sandstone lithology, but could range up to 55 percent 
+
+Bt horizon
+Hue--7.5YR through 2.5Y
+Value--4 through 7 dry, 3 through 5 moist
+Chroma--3 or 4
+Texture--silt loam, loam, sandy clay loam, or clay loam
+Clay content--averages more than 18 percent
+Rock fragment content--35 to 65 percent; mostly channers 2 to 8 cm in length but can range up to to 60 cm in length. Some sandstone fragments are rounded to stone size.
+
+The C horizon
+Hue--7.5YR through 2.5Y 
+Rock fragment content--up to 85 percent
+
+COMPETING SERIES:  These are the Charcol and Flygare series, both of which have E horizons.
+
+GEOGRAPHIC SETTING:
+Landform--mountain slopes, foot slopes, and swales on north-northeast aspects where prevailing winds deposit snow in the winter
+Elevation--2350 to 3000 meters, but ranges down to 1800 meters in Idaho
+Slopes--5 to 65 percent
+Parent material--residuum and colluvium derived from sedimentary rocks
+Mean annual precipitation--460 to 760 mm, of which the greater percentage comes as snow
+Mean annual air temperature--2 to 6 degrees C
+Frost-free period--less than 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; moderate permeability.
+
+USE AND VEGETATION:  These soils are used for recreation, wildlife habitat, and limited livestock grazing.  Native vegetation consists mainly of aspen with an understory of snowberry, serviceberry, chokecherry, Oregon grape, aspen, peavine, columbine, mountain brome, and bluegrass.
+
+DISTRIBUTION AND EXTENT:  The Northwater series is moderately extensive in the mountain areas of western Colorado, southeastern Idaho, and central Utah; MLRAs 47, 48A
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Paonia Area, Colorado, 1976
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon--5 to 68 cm (A1 and A2 horizons)
+Argillic horizon--68 to 127 cm (Bt horizon)
+Lithic contact--127 cm (R horizon)
+Pale feature--more than 60 cm from mineral surface
+
+Particle-size control section--68 to 118 (part of the Bt horizon)
+
+Converted to metric, updated formatting, O horizons were updated to start at zero. 7/2022
+
+National Cooperative Soil Survey
+U.S.A.

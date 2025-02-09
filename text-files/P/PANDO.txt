@@ -1,0 +1,87 @@
+LOCATION PANDO                  CO
+
+Established Series
+Rev. GB/KLS
+11/2022
+
+PANDO SERIES
+
+The soils of the Pando series are deep, well-drained soils formed in alluvium or glacial outwash derived from a variety of crystalline rock but mainly gneiss and schist.  They occur on alluvial fans and high terraces and slopes are 0 to 10 percent.  The mean annual precipitation is about 460 mm and the mean annual air temperature is about 2 degrees C.
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Alfic Argicryolls
+
+TYPICAL PEDON:  Pando gravelly loamy sand, grassland.  (Colors are for dry soil unless otherwise noted.)
+
+    Oi--0 to 5 cm; undecomposed and partially decomposed organic material consisting mainly of grass roots and leaves. (3 to 5 cm thick)
+
+    A--5 to 35 cm; dark grayish brown (10YR 4/2) gravelly loamy sand, very dark grayish brown (10YR 3/2) when moist; moderate, fine, granular structure; soft, very friable; 30 percent gravel; moderately acid; clear, smooth boundary.  (18 to 36 cm thick)
+
+    E--35 to 50 cm; pale brown (10YR 6/3) very gravelly loamy sand, brown (10YR 5/3) when moist; weak, thin, platy structure that parts to single grains; soft, very friable, vesicular; 40 percent gravel; moderately acid; clear, smooth boundary.  (10 to 25 cm thick)
+
+    Bt--50 to 80 cm; yellowish brown (10YR 5/4) very gravelly sandy loam, dark yellowish brown (10YR 4/4) when moist; weak to moderate, fine, subangular blocky structure; slightly hard, very friable; thin nearly continuous clay films on peds, on some pebbles, as fillings in root channels and pores, and as bridges between sand grains; 60 percent gravel; slightly acid; gradual, wavy boundary.  (23 to 41 cm thick)
+
+    2C--80 to 156 cm, light yellowish brown (10YR 6/4) very gravelly loamy sand, yellowish brown (10YR 5/4) when moist; single grained; loose; 80 percent gravel and some cobbles; neutral.
+
+TYPE LOCATION:  Chaffee County, Colorado; about 305 meters east of the southwest corner of Sec. 8, T. 15 S., R. 78 W.
+
+RANGE IN CHARACTERISTICS:
+Mollic epipedon thickness--18 to 40 cm
+Base saturation--60 to 100 percent in all subhorizons of the argillic horizon, and usually is more than 80 percent
+Depth to sandy-skeletal 2C horizon--50 to 100 cm
+Depth to top of argillic horizon--less than 60 cm
+Depth to base of argillic horizon--38 to 100 cm
+These soils are noncalcareous to depths of more than 100 cm, and typically, are noncalcareous to depths of more than 150 cm.
+
+Particle-size control section:
+Rock fragment content--35 to 80 percent by volume in a major part of the solum and C horizon and are usually less than 75 mm in diameter
+Reaction--pH 5.6 to 7.8
+
+A horizon
+Hue--2.5Y through 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--1 through 3
+
+E horizon
+Hue--2.5Y through 7.5YR
+Value--5 through 8 dry, 4 through 7 moist
+Chroma--1 through 4
+
+Bt horizon
+Hue--2.5Y through 7.5YR
+Value--5 through 7 dry, 4 through 6 moist
+Chroma--1 through 6
+Texture--gravelly or very gravelly sandy loam
+Clay content--8 to 18 percent
+
+2C horizon
+Hue of 2.5Y through 7.5YR
+Texture--very gravelly sand or very gravelly loamy sand
+
+COMPETING SERIES:  These are the Paintrock and Sunshine series.  Paintrock soils have medium to moderately fine textured argillic horizons and overlie bedrock at depths of 50 to 100 cm.  Sunshine soils have fine textured argillic horizons and overlie fragmental substratums at depths of 50 to 100 cm.
+
+GEOGRAPHIC SETTING:  
+Landform--alluvial fans and high terraces
+Elevation--2425 to 2675 meters 
+Slope--0 to 10 percent
+Parent material--alluvium or glacial outwash derived from a variety of crystalline rock but mainly gneiss and schist
+Mean annual precipitation--460 mm, with peak periods of precipitation in the spring and summer
+Mean annual air temperature--2 degrees C
+Mean summer temperature--11 degrees C
+Frost-free period--50 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Well drained; slow runoff; moderately rapid permeability
+
+USE AND VEGETATION:  These soils are used as native pastureland, for forestry, and for recreation.  Native vegetation is mainly ponderosa pine, with an understory of Arizona fescue, mountain muhly, wheatgrass, and sagebrush.
+
+DISTRIBUTION AND EXTENT:  Pando soils are of small extent in the mountain valleys of central and southwest Colorado; MLRA 48A.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Chaffee County, Colorado, 1974
+
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 11/2022
+
+National Cooperative Soil Survey
+U.S.A.

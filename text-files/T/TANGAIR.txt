@@ -1,0 +1,108 @@
+LOCATION TANGAIR                CA
+
+Established Series
+Rev. TCM/JBB
+08/2024
+
+TANGAIR SERIES
+
+The Tangair series consists of very deep, somewhat excessively drained soils that formed in eolian sand and sandy marine terrace deposits. Tangair soils are on marine terraces and have slopes of 0 to 15 percent. The mean annual precipitation is about 390 mm and the mean annual air temperature is about 14 degrees C.
+
+TAXONOMIC CLASS: Mixed, isomesic Durinodic Xeropsamments
+
+TYPICAL PEDON: Tangair soils in an area of Tangair sand on a slope of 1 percent facing north at an elevation of 122 meters under a cover of chamise, black sage, California sage, coyotebrush, mock heather, monkeyflower, and poison oak. (Colors are for dry soils unless otherwise noted.)
+
+ A1--0 to 10 cm; gray (10YR 6/1) sand, very dark grayish brown (10YR 3/2) moist; weak coarse granular structure; loose; common very fine and few fine roots; many very fine interstitial pores; layer of white sand grains on surface; moderately acid (pH 6.0); clear wavy boundary. (7 to 15 cm thick)
+
+ A2--10 to 60 cm; light gray (10YR 7/2) dry and moist sand; massive; loose; few fine and medium roots; many fine interstitial pores; moderately coherent concretions 2 to 5 millimeters across make up 1/2 percent of mass, uniformly distributed, reddish brown (5YR 5/4 and 6/4) moist; a few reddish sand grains; moderately acid (pH 6.0); gradual wavy boundary. (38 to 60 cm thick)
+
+ Bcs1--60 to 90 cm; very pale brown (10YR 7/3) sand, light gray (10YR 7/2) moist; single grained; loose; few fine roots; many very fine interstitial pores; concretions make up 5 to 15 percent of mass; 1 to 2 percent of sand grains are light reddish brown (5YR 6/4) moist; very strongly acid (pH 4.5); gradual smooth boundary. (20 to 38 cm thick)
+
+ Bcs2--90 to 120 cm; very pale brown (10YR 7/3) sand, light gray (10YR 7/2) moist; single grained; loose; very few fine roots in upper portion; many very fine interstitial pores; 15 to 35 percent concretions, reddish brown and yellowish brown (10YR 5/4 to 5YR 4/4), (5YR 3/4, 4/4, 5/4) moist, 12 to 150 mm across, shell of concretions redder than interior, small concretions and interior of larger ones have higher chroma and are softer, concretions in Bcs1 similar to the preceding; concretions are very hard when dry; 1 to 2 percent of sand grains are light reddish brown (5YR 6/4) moist; very strongly acid (pH 5.0); gradual wavy boundary. (20 to 38 cm thick)
+
+ C--120 to 150 cm; very pale brown (10YR 8/2) sand, light gray (10YR 7/2) moist; single grained; loose; many very fine interstitial pores; few reddish sand grains; very few soft bodies similar to concretions in Bcs1 and Bcs2 horizons; strongly acid (pH 5.2).
+
+TYPE LOCATION: Santa Barbara County, California; Vandenberg Air Force Base, 1/4 mile west of control building and 75 yards north of road. USGS 7.5 minute topographic quadrangle: Surf, California. WSGS84 34.747222 latitude and -120.569444 longitude; UTM Zone 10, 3847702.27 meters N and 722495.73 meters E NAD83.
+
+RANGE IN CHARACTERISTICS:
+Soil temperature: Isomesic temperature regime, bordering on isothermic. Mean annual soil temperature at 50 cm is 14 degrees C, and the difference between mean summer and mean winter soil temperature is less than 6 degrees C.
+
+Soil moisture: Xeric soil moisture regime. Usually dry in all parts from late May until late November, and usually most in some or all parts of the rest of the year.
+
+Particle size control section weighted average:
+Clay content: 1 to 6 percent
+Rock fragments: 0 to 5 percent gravel
+
+A horizon:
+Value: 3 to 7 dry, 2 to 7 moist
+Chroma: 2 or 3 dry, 2 to 4 moist
+Texture: sand, loamy sand
+Clay content: 1 to 6 percent
+Rock fragments: 0 to 5 percent gravel
+Organic matter content: Less than 1 percent
+Reaction: strongly acid to neutral
+
+B horizons:
+Value: 4 to 7 dry, 2 to 7 moist
+Chroma: 2 or 3 dry, 1 to 4 moist
+Texture: sand, loamy sand
+Clay content: 1 to 6 percent
+Rock fragments: 0 to 5 percent gravel
+Reaction: very strongly acid to neutral
+
+C horizon:
+Value: 4 to 8 dry, 2 to 7 moist
+Chroma: 1 to 4 dry, 2 to 4 moist
+Texture: sand
+Clay content: 1 to 4 percent
+Rock fragments: 0 to 5 percent gravel
+Reaction: strongly acid to neutral
+
+COMPETING SERIES: There are no other series in this family at this time.
+
+GEOGRAPHIC SETTING:
+Landscape: marine terraces
+Landform: linear treads of marine terraces
+Parent Material: eolian sand and sandy marine terrace deposits
+Slope: 0 to 15 percent slope
+Elevation: 30 to 160 meters
+Mean annual precipitation: 380 to 450 millimeters
+Mean January temperature: 11 degrees C
+Mean July temperature: 16 degrees C
+Mean annual air temperature: 12 to 14 degrees C
+Frost-free season: 340 to 365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Arnold soils: are 100 to 150 cm deep to a paralithic contact of sandstone and are found on linear positions of hills and higher elevation sandy marine terraces further inland
+Briones soils: are 50 to 100 cm deep to a paralithic contact of sandstone and are found on linear positions on hills and higher elevation sandy marine terraces further inland
+Marina soils: have lamellae and no concretions and are found on relict sand dunes on marine terraces of similar or lower elevations
+Narlon soils: have greater than 35 percent clay in the particle-size control section and are found on marine terraces of similar or higher elevation with clayey marine deposits under eolian sand
+Oceano soils: have lamellae and no concretions and are found on relict sand dunes on marine terraces of similar or lower elevations
+Pismo soils: are 10 to 50 cm deep to a paralithic contact of sandstone and found on convex positions of hills and higher sandy marine terraces further inland
+Reliz soils: are 10 to 50 cm deep to a lithic contact of shale and found on convex positions of hills and higher marine terraces formed in Monterey shale further inland
+
+DRAINAGE AND PERMEABILITY: Somewhat excessively drained; rapid to very rapid saturated hydraulic conductivity.
+
+USE AND VEGETATION: Used for range, wildlife, and military, and recreation. Vegetation is mostly chamise, black sage, California sage, coyotebrush, mock heather, monkeyflower, and poison oak.
+
+DISTRIBUTION AND EXTENT: Central California Coast Range, MLRA 15. This soil is moderately extensive.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
+
+SERIES ESTABLISHED: Santa Barbara County (Santa Ynez Area), California, 1927.
+
+REMARKS: Tangair soils were formerly classified as Ground-Water Podzols.
+The temperature regime and classification were updated in August 2024 using the Thirteenth Edition of Soil Taxonomy during the initial mapping of Vandenberg Space Force Base. This series was formerly classified as mixed, thermic Aquic Durinodic Xeropsamments.
+
+Diagnostic horizons and features recognized in this pedon include:
+Ochric epipedon: the zone from 0 to 60 cm
+Durinodes: the zone from 60 to 120 cm
+
+OSED scanned by SSQA. Last revised by state on 1/73.
+
+ADDITIONAL DATA: NSSL pedons S62CA-083-007 (type location) and S62CA-083-008 (range in characteristics)
+
+NASIS User Pedon ID: S1962CA083007
+
+National Cooperative Soil Survey
+U.S.A.

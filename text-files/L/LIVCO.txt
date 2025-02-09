@@ -1,0 +1,121 @@
+LOCATION LIVCO                  TX
+
+Tentative Series
+WLM-CDB-SAK-AKS
+04/2022
+
+LIVCO SERIES
+
+The Livco series consists of very deep, moderately well drained, very slowly permeable soils that formed in loamy alluvium derived from igneous, metamorphic and sedimentary rock.  These nearly level soils occur on flats on low coastal plains.  Slope ranges from 0 to 1 percent. Mean annual precipitation is about 1042 mm (41 in) and mean annual air temperature is about 22 degrees C (71.6 degrees F).
+
+TAXONOMIC CLASS: Fine, smectitic, hyperthermic Typic Natrudalfs
+
+TYPICAL PEDON: Livco fine sandy loam, 1 percent slope in cropland  (Colors are for moist soil unless otherwise stated.)
+
+    Ap--0 to 13 cm (0 to 5 in); dark grayish brown (10YR 4/2) fine sandy loam, light brownish gray (10YR 6/2) dry; weak medium and coarse subangular blocky structure; very hard, firm; common fine roots; common fine pores; slightly alkaline; abrupt smooth boundary.
+
+    A--13 to 20 cm (5 to 8 in); dark grayish brown (10YR 4/2) fine sandy loam, light brownish gray (10YR 6/2) dry; weak medium and coarse subangular blocky structure; very hard, firm; few fine roots; few fine pores; slightly alkaline; abrupt wavy boundary. [Combined thickness of A horizons is 10 to 25 cm (4 to 10 in)]
+
+    Btn1--20 to 38 cm (8 to 15 in); dark grayish brown (10YR 4/2) clay loam, light brownish gray (10YR 6/2) dry, few fine distinct yellowish brown (10YR 5/6) mottles; moderate medium prismatic structure parting to weak medium subangular blocky; very hard, very firm; few very fine roots; few thin clay films on surfaces of peds; moderatley sodic; very slightly saline; moderately alkaline; clear wavy boundary
+
+    Btn2--38 to 76 cm (15 to 30 in); grayish brown (2.5Y 5/2) clay loam, light gray (2.5Y 7/2) dry, few fine distinct yellowish brown (10YR 5/6) mottles; moderate medium prismatic structure parting to weak fine and medium subangular blocky; very hard, very firm; few thin clay films on surface of peds; moderately sodic; very slightly saline; moderately alkaline; gradual wavy boundary. [Combined thickness of the Btn horizons is 38 to 114 cm (15 to 45 in)]
+
+    Btkn--76 to 152 cm (30 to 60 in); grayish brown (2.5Y 5/2) clay loam, light gray (2.5Y 7/2) dry, common coarse prominent yellowish brown (10YR 5/8) mottles; weak medium subangular blocky structure; very hard, very firm; few thin clay films on surface of peds; few fine concretions and masses of calcium carbonate; moderately sodic; slightly saline; moderately alkaline; gradual smooth boundary. [0 to 102 cm (0 to 40 in thick)]
+
+    BCkn--152 to 203 cm (60 to 80 in); light brownish gray (2.5Y 6/2) clay loam, pale yellow (2.5Y 8/2) dry, many coarse prominent brownish yellow (10YR 6/6) and yellowish brown (10YR 5/8) mottles; weak coarse subangular blocky structure; very hard, very firm; few thin discontinuous clay films on faces of peds; few fine iron-manganese concretions; common medium and coarse concretions and masses of calcium carbonate; moderatley sodic; slightly saline; moderately alkaline.
+
+TYPE LOCATION: Jackson County, TX; from the intersection of a paved county road and Farm Road 616 in Francitas, 0.7 mile south on county road, 0.45 mile west on shell road, 0.1 mile south on private farm road, 200 feet east in cropland on a low mound. 
+
+USGS topographic quadrangle: Francitas, TX
+Latitude: 28 degrees, 50 minutes, 49 seconds N
+Longitude: 96 degrees, 20 minutes, 41 seconds W
+Datum: WGS84
+
+RANGE IN CHARACTERISTICS: 
+Water perches on top of the natric horizon for brief periods following extended heavy rain.
+Mean annual soil temperature:
+Depth to identifiable secondary carbonate: 51 to 152 cm (20 to 60 in)
+
+A horizon:
+Hue: 10YR
+Value: 4 or 5
+Chroma: 1 or 2
+Texture: fine sandy loam or very fine sandy loam
+Redox concentrations: amount-none to few; color-shades of brown or yellow
+Electrical conductivity (mmhos/cm): 0 to 2
+Sodium adsorption ratio (SAR): 2 to 6
+Reaction: slightly acid to slightly alkaline
+
+Btn or Btkn horizon:
+Hue: 10YR or 2.5YR
+Value: 2 to 6
+Chroma: 1 or 2
+Texture: clay loam or clay
+Clay content: 35 to 45 percent in the Btn and 30 to 45 percent in the Btkn
+Redox concentrations: amount-few to many; color-shades of brown or yellow
+Identifiable secondary carbonate: amount-none to 5 percent
+Electrical conductivity (mmhos/cm): 2 to 8 and the lower part ranges from 4 to 16
+Sodium adsorption ratio (SAR): 13 to 30 in the upper 40 cm (16 in) of the Bt horizon and from 13 to 40 to a depth of 203 cm (80 in) in the Bt
+Reacton: slightly alkaline to moderately alkaline; in some pedons the upper part of the Btn horizon is neutral
+
+BCn or BCkn horizon:
+Hue: 10YR or 2.5YR
+Value:2 to 6
+Chroma: 1 or 2
+Texture: clay loam, sandy clay loam or clay
+Redox concentrations: amount-none to common; shades- red, yellow, brown or gray
+Identifiable secondary carbonate: amount-none to few
+Reaction: slightly alkaline to moderately alkaline
+
+Some pedons have a 2C horizon below 60 inches that have color in shades of red, brown or gray.  Texture is very fine sandy loam, silt loam or silty clay loam.  Reaction ranges from neutral to moderately alkaline.
+
+COMPETING SERIES:  There are no competing series in the same family.  Similar soils are the Livia, Matagorda, Narta and Palacios series.  Livia, Matagorda, Narta and Palacios soils: have an aquic moisture regime.  
+Narta soils: have an aquic moisture regime and have greater salinity in the upper Bt horizon.  
+Matagorda soils: have mixed mineralogy.  
+Palacios soils: have moist color values of 3 or less in the upper 7 inches and have aquic conditions within 75 cm (30 in) of the surface.
+
+GEOGRAPHIC SETTING:  
+Parent material: loamy alluvium derived from igneous, metamorphic and sedimentary rock
+Landscape: low coastal plains
+Landform: flats
+Slope: 0 to 1 percent
+Mean annual precipitation: 97 to 112 cm (38 to 44 in)
+Thornthwaite P-E Index: 52 to 60
+Mean annual air temperature: 21 to 22.2 degrees C (70 to 72 degrees F)
+Frost free days: 270 to 305
+Elevation: 6 to 21 m (20 to 70 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Dacosta, Edna, Laewest, Telferner and Texana series.  
+Dacosta soils: are slightly lower in the landscape and are mapped in a complex with these soils, and do not have a natric horizon
+Edna soils: are on a similar or slightly lower position and do not have a natric horizon 
+Laewest soils: are on a similar or slightly lower position, do not have a natric horizon, and are clayey throughout
+Telferner soils: are on slightly higher positions and do not have a natric horizon
+Dacosta, Edna, Laewest, Telferner and Texana soils: do not have natric horizons
+Texana soils: are on slightly higher positions, have a mollic epipedon, and do not have a natric horizon
+
+DRAINAGE AND PERMEABILITY:  
+Drainage class: moderately well drained
+Permeability class: very slow permeability
+Runoff: low  
+
+USE AND VEGETATION:  
+Used for cropland and rangeland.  Most cropland is in a rice-unimproved pasture rotation.  A few areas are used for corn and grain sorghum.  Native grasses are salt tolerant species such as gulf cordgrass, marshhay cordgrass, little bluestem and Indiangrass.  Woody invaders are mesquite, bushy sea-oxeye and cactus.
+
+DISTRIBUTION AND EXTENT: 
+General area: Texas middle Gulf Coast Prairies
+Land Resource Region: T (Atlantic and Gulf Coast Lowland Forest and Crop Region)
+MLRA 150A Gulf Coast Prairies
+Extent: small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+SERIES ESTABLISHED:  Jackson County, Texas; 1991.
+
+REMARKS:  These soils where formerly included in the Livia series.  Based on the soil moisture study of other similar soils (ISCOM VIII, Classification and Management of Wet Soils, 1990), these soils do not have an aquic moisture regime.
+
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon - 0 to 20 cm (0 to 8 in) (Ap and A horizon)
+Natric horizon - 20 to 152 cm (8 to 60 in) (Btn and Btkn horizon)
+Redoximorphic features - 20 to 203 cm (8 to 80 in)
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,151 @@
+LOCATION RHODESFOLLY            CT+NY RI
+
+Established Series
+Revised DAS-SJM-DCP
+05/2024
+
+RHODESFOLLY SERIES
+
+
+MLRA(s)--144A, 149B
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--0 to 500 centimeters
+Parent material--Sandy lagoonal deposits
+Geomorphic location--Washover fan flats
+Slope range--0 to 5 percent
+Mean annual air temperature--10 degrees C (50 degrees F)
+Mean annual precipitation--1295 millimeters (51 inches)
+
+TAXONOMIC CLASS: Mixed, mesic Fluventic Psammowassents
+
+TYPICAL PEDON: Rhodesfolly fine sand on a north facing, nearly level slope on a washover fan flat under 130 centimeters of estuarine water. Tidal range is 80 centimeters. (Colors are for moist soil unless otherwise stated).
+
+ Aseg--0 to 13 centimeters; very dark gray (N 3/) fine sand; white (5Y 8/1) dry; single grain; nonfluid; 4 percent gravel; 2 percent shell fragments; sulfurous odor; slightly alkaline (pH 7.6), slightly alkaline (pH 7.6) oxidized pH; abrupt boundary. (0 to 23 centimeters thick)
+
+ Cseg--13 to 20 centimeters; dark gray (5Y 4/1) shelly coarse sand; light greenish gray (10Y 7/1) dry; single grain; nonfluid; 12 percent gravel; 20 percent shell fragments; sulfurous odor; moderately alkaline (pH 8.0), slightly alkaline (pH 7.8) oxidized pH; abrupt boundary. (6 to 68 centimeters thick)
+
+ Asegb--20 to 29 centimeters; black (N 2.5/) very shelly coarse sand; greenish gray (10Y 6/1) dry; single grain; nonfluid; 5 percent herbaceous fibers, 0 percent rubbed; 6 percent gravel; 50 percent shell fragments; sulfurous odor; moderately alkaline (pH 8.2), slightly alkaline (pH 7.6) oxidized pH abrupt boundary. (4 to 22 centimeters thick)
+
+ Cg--29 to 39 centimeters; very dark gray (2.5Y 3/1) shelly coarse sand; greenish gray (10Y 6/1) dry; single grain; nonfluid; 7 percent gravel; 10 percent shell fragments; moderately alkaline (pH 8.4), slightly alkaline (pH 7.6) oxidized  pH; clear boundary.
+
+ C'seg--39 to 61 centimeters; gray (N 5/) coarse sand; light gray (N 7/) dry; single grain; nonfluid; 1 percent gravel; 2 percent shell fragments; sulfurous odor; strongly alkaline (pH 8.6), slightly alkaline (pH 7.5) oxidized pH; clear boundary. (5 to 42 centimeters thick)
+
+ A'segb--61 to 72 centimeters; very dark gray (2.5Y 3/1) shelly coarse sand; gray (N 6/) dry; single grain; nonfluid; 3 percent herbaceous fibers, 0 percent rubbed; 3 percent gravel; 20 percent shell fragments; sulfurous odor; strongly alkaline (pH 8.7), slightly alkaline (pH 7.6) oxidized pH; clear boundary. (5 to 20 centimeters thick)
+
+ C''seg--72 to 78 centimeters; dark gray (2.5Y 4/1) gravelly coarse sand; gray (N 6/) dry; single grain; nonfluid; 11 percent gravel; sulfurous odor; strongly alkaline (pH 8.9); slightly alkaline (pH 7.7), oxidized pH; abrupt boundary. (6 to 32 centimeters thick)
+
+ A''segb1--78 to 82 centimeters; very dark gray (2.5Y 3/1) gravelly coarse sand; gray (N 6/) dry; single grain; nonfluid; 1 percent herbaceous fibers, 0 percent rubbed; 22 percent gravel; 25 percent shell fragments; sulfurous odor; moderately alkaline (pH 8.4), slightly alkaline (pH 7.6) oxidized pH; abrupt boundary.
+
+ A''segb2--82 to 92 centimeters; greenish black (10Y 2.5/1) fine sand; gray (5Y 5/1) dry; single grain; nonfluid; 2 percent herbaceous fibers, 0 percent rubbed; 1 percent gravel; sulfurous odor; moderately alkaline (pH 8.3), slightly acid (pH 6.3) oxidized pH; abrupt boundary. (6 to 14 centimeters thick)
+
+ C'''seg--92 to 200 centimeters; dark gray (5Y 4/1) fine sand; gray (5Y 6/1) dry; single grain; nonfluid; sulfurous odor; moderately alkaline (pH 8.4), slightly acid (pH 6.2), oxidized pH.
+
+TYPE LOCATION: New London County, Connecticut; located about 8825 feet southeast from the intersection of the Providence and Worcester Railroad and Island Road, and 6900 feet southwest of Barn Island boat launch, south of Sandy Point. USGS topographic quadrangle: Mystic, CT.
+
+Latitude--41.3184204
+Longitude-- -71.8774414
+Datum--WGS84
+Coordinate source--estimated from narrative description
+
+RANGE IN CHARACTERISTICS: 
+Depth to bedrock--greater than 200 centimeters
+Soil moisture--Continuously inundated or exposed only during spring low tides
+Reaction throughout--Neutral to strongly alkaline (ph 6.6 to 9.0)
+Oxidized reaction--Very strongly acid to slightly alkaline (4.5 to 7.8)
+Electrical conductivity (1:5 soil-water, throughout)--0.6 dS/m or greater
+Depth to hypersulfidic/sulfidic materials (oxidized pH 4.0)--Greater than 150 centimeters
+Manner of failure throughout--Nonfluid
+Gravel throughout--0 to less than 35 percent
+Shell fragments throughout--0 to 50 percent
+
+Aseg horizon-
+Hue--10Y or neutral
+Value--2.5 or 3
+Chroma--0 or 1
+Texture-loamy fine sand or coarser
+
+ACg horizon (where present) 
+Hue--10Y or neutral
+Value--2.5 or 3
+Chroma--0 or 1
+Texture-loamy fine sand or coarser
+Thickness--0 to 43 cm thick
+
+CAg or C/A (where present)-
+Hue--5Y or 2.5Y
+Value--3 to 6
+Chroma--0 to 2
+Texture-- loamy fine sand or coarser
+Thickness--0 to 29 cm
+
+Cg horizon-
+Hue--2.5Y to 10Y or is neutral
+Value--2.5 to 5
+Chroma--0 to 2
+Texture--loamy sand or coarser
+
+Asegb horizon-
+Hue--7.5YR to 10Y or is neutral
+Value--2.5 or 3
+Chroma--0 to 2
+Texture--loamy fine sand or coarser
+
+C'seg horizon (where present)-
+Hue--5Y
+Value--2 to 5
+Chroma--0 to 2
+Texture--sandy loam or coarser
+
+COMPETING SERIES:
+Massapog series--occur on flood tidal delta flats in coastal lagoons; less than 5 percent gravel content throughout the profile
+
+GEOGRAPHIC SETTING:
+Parent material--sandy lagoonal deposits
+Landscape--Coastal estuaries, bays, and lagoons
+Landform--Washover fan flats
+Slope--0 to 5 percent
+Mean annual precipitation--1023 to 1320 millimeters (40 to 52 inches)
+Mean annual air temperature--4 to 13 degrees C (39.2 to 55.4 degrees F)
+Water salinity range--18 to 30 parts per thousand
+Frost free period--350 to 365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Anguilla and Napatree soils.
+
+Anguilla soils--in mainland coves and have sulfidic materials within 50 centimeters of the soil surface.  These soils are underlain by glaciofluvial deposits.
+Napatree soils--in submerged headlands and are underlain by glacial till deposits
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--High or very high
+Soil moisture regime--Peraquic
+Soil is permanently inundated with saline and brackish water with considerable tidal exchange which limits the development of sulfidic soil material.
+
+USE AND VEGETATION: 
+Major uses--Supports benthic aquatic habitat and is used for fishing and recreational and commercial shellfish harvesting; species are smelt, small cod, flounder, scup, menhaden, white perch
+Native vegetation--Native algae and eelgrass (Zostera marina); vegetative cover ranges from 0 to 35 percent 
+
+DISTRIBUTION AND EXTENT: 
+General area--Located along the Connecticut, New York and Rhode Island coast
+Land Resource Regions--R - Northeastern Forage and Forest Region; S - Northern Atlantic Slope Diversified Farming Region
+MLRA(s)--MLRA 144A, 149B
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
+
+SERIES ESTABLISHED: New London County, Connecticut, 2010
+
+REMARKS: This subaqueous series mapped in areas previously mapped as water in Connecticut, New York and Rhode Island Soil Surveys.
+
+Diagnostic horizons and features in this pedon include--
+Peraquic moisture regime--The zone from 0 to 200 centimeters has positive soil water potential (permanently submerged) at the soil surface (under 2 meters of salt water).
+Ochric epipedon--The zone from 0 to 13 cm (Ag horizon).
+Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches).
+Fluventic Feature--soil organic carbon content of greater than 0.2 percent at a depth of 125 cm
+Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA: 
+Characterization data for the typical pedon, S2005RI0009007 and additional pedon data, S2005RI0009008 analyzed by the KSSL, Lincoln, NE. Additional pedon data, S2006RI003003 and S2006RI003007 in Kent County, Rhode Island, analyzed by the University of Rhode Island.
+
+National Cooperative Soil Survey
+U.S.A.

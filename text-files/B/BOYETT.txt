@@ -1,0 +1,109 @@
+LOCATION BOYETT                 CO
+
+Established Series
+Rev. RM-GB-KLS
+03/2023
+
+BOYETT SERIES
+
+The Boyett series consists of deep, well drained soils that formed in arkosic sandstone and old alluvium weathered from red sedimentary rock.  Permeability is moderate to moderately rapid.  Boyett soils are on upland hills and ridges.  Slopes range from 2 to 40 percent.  The mean annual precipitation is about 430 mm and the mean annual temperature is about 7 degrees C.
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, frigid Typic Haplustalfs
+
+TYPICAL PEDON:  Boyett sandy loam-forest.  (Colors are for dry soil unless otherwise noted.)
+
+    Oi--0 to 3 cm; needles, leaves, and twigs.
+
+    A--3 to 16 cm; brown (7.5YR 5/2) sandy loam; dark brown (7.5YR 3/2) moist; weak fine granular structure; soft, very friable; 5 percent gravel; few fine and medium roots, few fine interstitial pores; slightly acid (pH 6.2); clear smooth boundary.  (8 to 15 cm thick)
+
+    E--16 to 26 cm; pink (7.5YR 7/4) gravelly coarse sandy loam, brown (7.5YR 4/4) moist; weak medium and fine granular structure; slightly hard, friable; 15 percent gravel; few fine and medium roots; common fine tubular pores; slightly acid (pH 6.4); abrupt wavy boundary.  (8 to 20 cm thick)
+
+    Bt1--26 to 44 cm; reddish brown (5YR 5/4) gravelly sandy loam, reddish brown (5YR 4/4) moist; moderate medium angular blocky structure; very hard, very firm, slightly sticky, and slightly plastic; 20 percent gravel; few very fine roots; slightly acid (pH 6.2); abrupt smooth boundary.
+
+    Bt2--44 to 90 cm; reddish brown (5YR 5/4) gravelly sandy loam, reddish brown (5YR 4/3) moist; moderate medium subangular blocky structure; very hard, very firm, sticky, and plastic; 30 percent gravel; few very fine roots; slightly acid (pH 6.3); abrupt smooth boundary.  (Combined thickness of the Bt1 and Bt2 horizons - 50 to 85 cm)
+
+    Btk--90 to 110 cm; reddish brown (5YR 5/4) gravelly sandy loam, reddish brown (5YR 4/3) moist; weak medium prismatic structure parting to weak medium subangular blocky; very hard, firm, sticky; 15 percent lime coated gravel; violently effervescent; moderately alkaline (pH 8.4); gradual smooth boundary.  (15 to 30 cm thick)
+
+    Ck--110 to 138 cm; light reddish brown (5YR 6/4) sandy loam, reddish brown (5YR 4/4) moist; massive; hard, friable, sticky; 5 percent lime coated gravel; violently effervescent; moderately alkaline (pH 8.4).
+
+    R--138 cm; arkosic sandstone.
+
+TYPE LOCATION:  Teller County, Colorado; in the center of the west half of Sec. 15, T. 11 S., R. 69 W.
+
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--7 to 8 degrees C
+Mean annual summer soil temperature--15 to 19 degrees C
+Calcium carbonate equivalent--less than 2 percent
+Exchangeable sodium--less than 2 percent
+Depth to secondary carbonate accumulation--65 to 120 cm
+
+Particle-size control section:
+Base saturation--82 to 100 percent in the argillic horizon
+Rock fragment content--5 to 35 percent by volume and are mainly less than 50 mm in diameter
+
+A horizon
+Hue--10YR or 7.5YR
+Value--4 to 5 dry, 3 or 4 moist
+Chroma--1 or 2
+The upper 18 cm when mixed has moist mollic colors.
+Reaction--pH 6.1 to 6.5
+
+E horizon
+Hue--7.5YR through 5YR
+Value--6 or 7 dry, 4 or 5 moist
+Chroma--2 through 4
+Reaction--pH 6.1 to 6.5
+
+Bt horizon
+Hue--7.5YR through 2.5YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--3 through 6
+Clay content--12 to 18 percent
+Reaction--pH 6.1 to 6.5
+
+Btk horizon
+Hue--7.5YR through 2.5YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--3 through 6
+Clay content--12 to 18 percent
+Reaction--pH 7.9 to 8.4
+
+C horizon
+Hue--10YR through 2.5YR
+Value--4 through 7 dry, 3 through 6 moist
+Chroma--4 through 6
+Texture--loam, sandy loam, or coarse sand
+Reaction--pH 7.4 to 8.4
+
+COMPETING SERIES:  These are the Holdingford (MN) and Rockwood (MN) series.  The Holdingford and Rockwood soils lack an arkosic influence in the Bt horizon and are more friable.
+
+GEOGRAPHIC SETTING:  
+Landform--alluvial terraces, hills and ridges
+Elevation--2075 to 2450 meters
+Slope--2 to 40 percent
+Parent material--locally transported from sedimentary arkosic beds of the Fountain and Lyons Formations or in red aeolian material over sandstone
+Mean annual precipitation--380 to 510 mm
+Mean annual air temperature--6 to 7 degrees C
+Mean summer air temperature--14 to 18 degrees C
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
+
+DRAINAGE AND PERMEABILITY:  Well drained; medium to slow runoff; moderate to moderately rapid permeability.
+
+USE AND VEGETATION:  These soils are used for forestry, pastureland, recreation, and watershed.  Native vegetation is mainly ponderosa pine, oak brush, and an understory of grasses.
+
+DISTRIBUTION AND EXTENT:  The Boyett series is of small extent in the foothills and mountains of central Colorado; MLRA 48A.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Teller County, (Pike National Forest, East part-Soil Survey Area) Colorado, 1984. The series name is taken from a creek in the local area.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Mollic intergrade epipedon--3 to 16 cm (A horizon)
+Argillic horizon--26 to 110 cm (Bt1, Bt2 and Btk horizons)
+Particle-size control section--26 to 76 cm (Bt1 horizon and part of the Bt2 horizon)
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 01/2023
+
+National Cooperative Soil Survey
+U.S.A.

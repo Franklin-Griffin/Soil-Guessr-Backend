@@ -1,0 +1,89 @@
+LOCATION SMARTS                 UT
+
+Established Series
+Rev. VLM/MEO/KLS
+09/2022
+
+SMARTS SERIES
+
+The Smarts series consists of deep, well drained, moderately permeable soils that were formed in alluvium flood plains.  These soils are on steep to very steep coalescing alluvial-colluvial fans and mountain slopes and narrow alluvial flood plains. Slopes are 20 to 70 percent.  The mean annual air temperature is about 6 degrees C, and the average annual precipitation is about 660 mm.
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Pachic Ultic Argixerolls
+
+TYPICAL PEDON: Smarts silt loam, woodland.  (Colors are for dry soil unless otherwise noted.)
+
+    Oi--0 to 6 cm; fresh to partially decomposed maple leaves. (0 to 8 cm thick)
+
+    A1--6 to 44 cm; very dark grayish brown (10YR 3/2) silt loam, very dark brown (10YR 2/2) moist; weak medium granular structure that parts to very fine granules; soft, friable, nonsticky and slightly plastic; many very fine, common coarse roots; neutral (pH 6.6); clear smooth boundary. (25 to 50 cm thick)
+
+    A2--44 to 62 cm; very dark grayish brown (10YR 3/2) gravelly silt loam, very dark brown (10YR 2/2) moist; weak medium and coarse subangular blocky structure that parts to weak medium granules; slightly hard, friable, nonsticky and slightly plastic; common very fine, fine, medium and coarse roots; neutral (pH 6.6); clear wavy boundary. (15 to 50 cm thick)
+
+    Bt--62 to 130 cm; brown (10YR 5/3) very cobbly heavy loam, brown (10YR 4/3) moist; weak and moderate, medium and coarse subangular blocky structure that parts to moderate fine subangular blocks; slightly hard, friable, sticky and plastic; common thin clay films on faces of peds and in pores; common very fine and medium, few fine and coarse roots; common very fine pores; slightly acid (pH 6.4); gradual wavy boundary. (51 to 81 cm thick)
+
+    C--130 to 158 cm; brown (10YR 5/3) very cobbly loam, brown (10YR 4/3) moist; weak medium subangular blocky structure that parts to very fine subangular blocks; soft, friable, slightly sticky and slightly plastic; common medium roots; common very fine pores; neutral (pH 6.6).
+
+TYPE LOCATION: Cache County, Utah; east side of Wellsville Mountain, southwest of Mendon, about 60 meters south and 60 meters west of the E1/4 corner of sec. 19, T.11N., R.1W.
+
+RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature--4 to 8 degrees C
+Mean summer soil temperature at depth of 50 cm--15 to 18 degrees C
+Thickness of mollic epipedon--50 to 100 cm
+Combined thickness of A1 and B2t horizons--100 to more than 150 cm
+Rock fragments--mainly cobble and gravel size angular sandstone and quartzite rock fragments, ranging from about 5 to 45 percent in the A1 horizon, and 35 to 85 percent in the B2t and C horizons.
+Soils are usually moist, but are dry in all parts of the 10 to 30 cm depth for 60 to 90 consecutive days during the summer in 7 out of 10 years.
+
+A horizons
+Hue--10YR or 7.5YR
+Value--3 through 5 dry, 2 or 3 moist
+Chroma--1 to 3
+Reaction--pH 5.1 to 6.6
+Structure--weak to moderate very fine to coarse granular or subangular blocky structure
+
+Bt horizon
+Hue--10YR or 7.5YR
+Value--4 through 6 dry and 3 through 5 moist
+Chroma--2 through 5
+Texture--very cobbly heavy loam or very cobbly light clay loam
+Structure--weak to moderate, fine to coarse subangular blocky or weak prismatic structure
+Reaction--pH 5.1 to 7.3
+Note--This horizon has few to many thin clay films on peds and in pores.
+
+C horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2 or 3
+Texture--very cobbly loam to very cobbly sandy loam
+Structure--weak medium to fine subangular blocky structure or is massive
+Reaction--pH 6.1 to 7.3
+
+COMPETING SERIES: These are the Dateman, Elzinga, Hyrum, Poleline and Toncana series. Dateman soils have average summer temperature of less than 15 degrees C. Elzinga soils have albic horizons. Hyrum soils have mean annual temperatures of more than 8 degrees C. Poleline soils lack argillic horizons and have summer temperature of less than 15 degrees C.  Toncana soils have hue of 5YR or 2.5YR in the Bt horizons.
+
+GEOGRAPHIC SETTING: 
+Landform--steep to very steep coalescing alluvial-colluvial fans and mountain slopes and narrow alluvial flood plains
+Elevations--1,580 to 2,740 meters
+Slopes--20 to 70 percent
+Parent material--alluvium and colluvium, dominantly from sandstone, quartzite and limestone, but include some argillite, gneiss and schist
+Mean annual precipitation--455 to 760 mm; climate is moist subhumid
+Mean annual air temperature--3 to 7 degrees C
+Mean summer air temperature--13 to 18 degrees C
+Frost free season--60 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: Not listed
+
+DRAINAGE AND PERMEABILITY: Well drained; slow to rapid runoff; moderate to moderately slow permeability.
+
+USE AND VEGETATION: Used mainly as watershed. The native vegetation is maple, oakbrush, chokecherry, scattered aspen, snowberry, big sagebrush, Larkspur, false solomon's seal, fern, horsemint, peavine, western coneflower, blue wildrye, slender wheatgrass, cheatgrass and bearded wheatgrass.
+
+DISTRIBUTION AND EXTENT: Smarts soils are of moderate extent in the mountain areas of northern Utah; MLRAs 47, 28A
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED: Cache Area, Utah, 1969.
+
+REMARKS: Smarts soils were formerly classified as Brunizems.
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 2/2022
+
+The superactive cation exchange activity class was added in 03/2003 to the taxonomic classification by the National Soil Survey Center on request of the Lakewood MLRA office, without review of the soil series property data. 
+
+National Cooperative Soil Survey
+U.S.A.

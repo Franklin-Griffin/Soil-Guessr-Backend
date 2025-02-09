@@ -1,0 +1,83 @@
+LOCATION BANGSTON               CO+AZ NM WY
+
+Established Series
+Rev. AJC/GB/KLS
+03/2022
+
+BANGSTON SERIES
+
+The Bangston series consists of well to somewhat excessively drained soils.  Bangston soils are on upland hills and ridges, usually on toe-slopes below areas of sandstone. Slopes range from 5 to 50 percent.  The mean annual precipitation is about 510 mm and the mean annual air temperature is about 3 degrees C.
+
+TAXONOMIC CLASS: Sandy, mixed Ustic Haplocryolls
+
+TYPICAL PEDON:  Bangston sandy loam - timberland.  (Colors are for dry soil unless otherwise noted.)
+
+    Oi--0 to 3 cm; partially decomposed organic material.  Principally from leaves, needles, and grass remains.  (0 to 5 cm thick)
+
+    A1--3 to 26 cm; dark grayish brown (10YR 4/2) light sandy loam, very dark brown (10YR 2/2) moist; weak fine crumb structure; soft, very friable; neutral (pH 6.8); clear smooth boundary.  (20 to 30 cm thick)
+
+    A2--26 to 79 cm; brown (10YR 4/3) loamy sand, dark brown (10YR 3/3) moist; single grained; soft, very friable; neutral (pH 7.0); gradual smooth boundary.  (20 to 70 cm thick)
+
+    C--79 to 155 cm; brown (10YR 5/3) loamy sand, brown (10YR 4/3) moist; single grained; soft, very friable; about 5 percent small sandstone fragments; neutral (pH 6.8).
+
+TYPE LOCATION:  Mesa County, Colorado; NE 1/4 of Sec. 29, T. 13 S., R.  101 W.
+
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--0 to 8 degrees C
+Mean summer soil temperatures--8 to 14 degrees C
+Mollic epipedon thickness--40 to 100 cm
+Organic carbon content--0.8 to 2 percent in the mollic epipedon, decreasing uniformly with depth
+Base saturation--90 to 100 percent  
+Texture--sand to loamy sand, excluding loamy very fine sand
+Rock fragment content--0 to 30 percent, but commonly less than 10 percent, consisting principally of small sandstone fragments
+They are noncalcareous throughout and have no bedrock or strongly contrasting substratums above 100 cm.  
+
+A1 horizon
+Hue--10YR through 7.5YR
+Value--4 or 5 dry or 2 or 3 moist
+Chroma--1 through 3
+Reaction--pH 6.6 to 7.8
+
+C horizon
+Hue--2.5Y through 7.5YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--2 through 4
+Reaction--pH 6.6 to 7.8
+In New Mexico and Arizona these soils have BA and non-diagnostic cambic horizons which are part of the mollic epipedon and underlying non-albic 2E horizons which are not.
+
+2E horizons (if present)
+Texture-- flaggy loamy sand, flaggy loamy fine sand, or loamy sand
+
+2E/Bt horizons (if present) occur below 100 cm and have a few, thin lamellae less than 1 cm thick
+Textures--very flaggy loamy sand or very flaggy loamy fine sand
+Rock fragment content--35 to 60 percent
+
+COMPETING SERIES:  These are the Koppes (ID), Tazlina (T) (AK), and Tomichi (CO) series.  Koppes soils have slightly acid to moderately acid C horizons, expected to have base saturation of 50 to 75 percent.  Tazlina soils have long cold subarctic winters and short warm summers.  Tomichi soils are very pale brown below depth of 18 to 38 cm.
+
+GEOGRAPHIC SETTING:  
+Landform--upland hills and ridges, usually on toe slopes below areas of sandstone
+Elevation--2,590 to more than 2,900 meters
+Slope--5 to 50 percent
+Parent materials--materials weathered from sandstone
+Mean annual precipitation--510 mm
+Mean annual air temperature--3 degrees C
+ Mean annual summer temperature--11 degrees C
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Well to somewhat excessively drained; slow runoff; rapid to very rapid permeability.
+
+USE AND VEGETATION:  Bangston soils are used principally as native pastureland.  Principal native plants in the tree cover are aspen, ponderosa pine, Douglas-fir, and Engelmann spruce.  Understory plants are sage, Columbia needlegrass, Colorado blue ryegrass, Thurber fescue, elk sedge, and native bluegrass.
+
+DISTRIBUTION AND EXTENT:  Bangston soils are of moderate extent in northern Colorado, northwest New Mexico, northeast Arizona and western Wyoming; MLRAs 35, 43B, 48B
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Mesa County (Lower Colorado Area), Colorado, 1970.
+
+REMARKS:  Differential between Bangston and Tomichi soils need further study.  Pachic soils are not classified in material coarser than loamy very fine sand.  Mollic epipedon is from 3 to 79 cm.  
+
+Converted to metric and O horizons were updated to start at zero. 2/2022
+
+National Cooperative Soil Survey
+U.S.A.

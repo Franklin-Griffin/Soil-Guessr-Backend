@@ -1,0 +1,122 @@
+LOCATION ELMARK                 MT 
+
+Established Series
+Rev. PEM/DRS/KLS
+01/2023
+
+ELMARK SERIES 
+
+The Elmark series consists of moderately deep, well drained soils that formed in colluvium or residuum derived from granite bedrock.  These soils are on hills and mountains.  Slopes are 8 to 60 percent.  Mean annual precipitation is about 430 mm, and mean annual temperature is about 4 degrees C.
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, frigid Typic Haplustalfs
+
+TYPICAL PEDON:  Elmark sandy clay loam, bouldery, in forest (colors are for dry soil unless otherwise noted). 
+
+    Oe--0 to 5 cm; partially decomposed needles, twigs, and leaves. (1 to 5 cm thick) 
+
+    A--5 to 13 cm; dark grayish brown (10YR 4/2) sandy clay loam, very dark grayish brown (10YR 3/2) moist; weak medium and fine subangular blocky structure parting to weak fine and very fine granular; soft, very friable, slightly sticky and slightly plastic; many very fine, few fine and few medium roots; many very fine and fine, and few medium pores; 5 percent pebbles; neutral (pH 7.0); clear smooth boundary. (0 to 13 cm thick) 
+
+    E--13 to 23 cm; light brownish gray (2.5Y 6/2) sandy clay loam, dark grayish brown (2.5Y 4/2) moist; weak medium and fine subangular blocky structure parting to weak fine and very fine granular; soft, very friable, slightly sticky and slightly plastic; many very fine, few fine and few medium roots; many very fine and few fine tubular and interstitial pores; 5 percent pebbles; slightly acid (pH 6.2); clear wavy boundary. (5 to 20 cm thick) 
+
+    Bt--23 to 53 cm; light yellowish brown (2.5Y 6/4) gravelly sandy clay loam, olive brown (2.5Y 4/4) moist; weak medium prismatic structure parting to moderate medium and fine subangular blocky; slightly hard, friable, sticky and slightly plastic; many very fine, few fine and few medium roots; many very fine and few fine tubular and interstitial pores; many faint clay films bridging sand grains and ped faces; 20 percent pebbles; slightly acid (pH 6.2); gradual wavy boundary. (18 to 58 cm thick) 
+
+    BC--53 to 81 cm; light olive brown (2.5Y 5/4) gravelly sandy loam, dark grayish brown (2.5Y 4/2), moist; weak medium and fine subangular blocky structure; soft, very friable, slightly sticky and nonplastic; common very fine and few fine roots; many very fine tubular and interstitial pores; 30 percent pebbles; slightly acid (pH 6.1); clear irregular boundary. (0 to 50 cm thick) 
+
+    Cr--81 to 150 cm; olive (5Y 5/3) decomposed granite bedrock (grus) which crushes to very gravelly loamy coarse sand or gravelly coarse sand, olive gray (5Y 4/2) moist; massive; nonsticky and nonplastic; few very fine roots in upper 3 to 5 cm of horizon; neutral (pH 7.0); gradual smooth boundary. (38 to 76 cm thick) 
+
+    R--150 cm; hard granite bedrock. 
+
+TYPE LOCATION:  Jefferson County, Montana; about 380 meters north and 305 meters east of the SW corner of sec. 20, T. 9 N., R. 2 W. 
+
+RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature--3 to 6 degrees C
+Moisture control section--10 and 30 cm
+Depth to argillic horizon--13 to 43 cm
+Depth to paralithic contact--50 to 100 cm
+Depth to lithic contact--100 to 150 cm 
+Rock fragments, surface cover--0.01 to 15 percent boulders 
+
+A horizon
+Hue--10YR or 2.5Y 
+Value--3 to 5 dry; 2 to 4 moist 
+Chroma--1 to 3
+Texture--coarse sandy loam, sandy loam, sandy clay loam, or loam 
+Clay content--8 to 25 percent
+Rock fragment content--5 to 50 percent total; 5 to 30 percent pebbles, mainly less than 7 mm in diameter; 0 to 20 percent cobbles
+Reaction--pH 6.1 to 7.3 
+
+E horizon
+Hue--10YR or 2.5Y
+Value--5 or 6 dry; 4 or 5 moist
+Chroma--2 or 3
+Texture--coarse sandy loam, sandy loam, or sandy clay loam
+Clay content--10 to 25 percent 
+Rock fragment content--5 to 25 percent pebbles (mostly less than 7 mm in diameter)
+Reaction--pH 5.6 to 7.3
+
+Bt horizon
+Hue--10YR or 2.5Y
+Value--5 or 6 dry; 4 or 5 moist
+Chroma--2 to 4
+Texture--sandy clay loam or clay loam (less than 2 mm fractions contains a high percentage of coarse sand)
+Clay content--20 to 30 percent
+Rock fragment content--5 to 25 percent pebbles, mostly less than 7 mm in diameter
+Reaction--pH 6.1 to 7.3
+Some pedons have Bt1 and Bt2 horizons
+
+BC horizon
+Hue--10YR, 2.5Y, or 5Y
+Value--5 or 6 dry; 4 or 5 moist
+Chroma--2, 3 or 4
+Texture--coarse sandy loam or sandy loam
+Clay content--10 to 18 percent
+Rock fragment content--15 to 35 percent pebbles, mostly less than 7 mm in diameter
+Reaction--pH 6.1 to 7.3
+
+Cr horizon
+Reaction--pH 6.6 to 7.3 
+
+COMPETING SERIES: 
+Elbeth (CO) - does not have a paralithic or lithic contact above a depth of 150 cm
+Northrim (CO) - does not have a paralithic or lithic contact above 150 cm
+Zunalei (NM) - does not have a paralithic or lithic contact above 150 cm
+
+GEOGRAPHIC SETTING:
+Landform--hills, mountains
+Elevation--1350 to 1900 meters
+Slope--8 to 60 percent
+Parent material--colluvium or residuum derived from granite bedrock
+Climate--long, cold winters, moist springs, warm summers
+Mean annual precipitation--380 to 480 mm
+Mean annual air temperature--2 to 6 degrees C
+Frost-free period--70 to 105 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
+
+DRAINAGE AND PERMEABILITY:  Well drained, moderate permeability in the argillic horizon and moderately rapid below. 
+
+USE AND VEGETATION:  Elmark soils are primarily used for woodland.  The potential native vegetation is mainly Douglas fir, ponderosa pine, pinegrass, common snowberry, white spiraea, Rocky Mountain juniper, big sagebrush, bitterbrush, rough fescue, Idaho Fescue, and bluebunch wheatgrass 
+
+DISTRIBUTION AND EXTENT:  Elmark soils are of small extent in southwestern Montana; MLRA 43B 
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES PROPOSED:  Jefferson County, Montana, 1993
+
+REMARKS:  Soil interpretation record: MT1526, MT3003, MT3027
+Diagnostic horizons and features recognized in this pedon are:  
+A layer of partially decomposed needles, leaves, and twigs--0 to 5 cm (Oe horizon)
+Ochric epipedon--5 to 23 cm, mixed (A and E horizons)
+Argillic horizon--23 to 53 cm (Bt horizon)
+Decomposed granite bedrock (grus)--81 to 150 cm (Cr horizon)
+Hard granite bedrock--150 cm (R horizon)
+Particle-size control section--23 to 53 cm (Bt horizon)
+
+Elmark soils have a frigid temperature regime and an ustic soil moisture regime.
+
+Classification changed from Eutroboralfs in 1997.
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 12/2022
+
+National Cooperative Soil Survey
+U.S.A.

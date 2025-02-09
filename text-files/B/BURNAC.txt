@@ -1,0 +1,92 @@
+LOCATION BURNAC                 NM+CO
+
+Established Series
+Rev. GWA/RJA/KLS
+07/2022
+
+BURNAC SERIES
+
+The Burnac series consists of deep and very deep, well drained, very slowly permeable soils that formed from basalt, sandstone, and shale alluvium.  Burnac soils are on basalt flows and benches with slope of 1 to 60 percent. Mean annual precipitation is about 50 cm and mean annual air temperature is about 6 degrees C.
+
+TAXONOMIC CLASS: Fine, smectitic, frigid Typic Haplustalfs
+
+TYPICAL PEDON:  Burnac stony loam - forested.  (Colors are for dry soil unless otherwise noted.)
+
+   Oi--0 to 5 cm; decomposed and decomposing forest litter.  (3 to 8 cm thick)
+
+   A--5 to 20 cm; very dark grayish brown (10YR 3/2) stony loam, very dark brown (10YR 2/2) moist; moderate very fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many fine and very fine roots; 20 percent stones; slightly acid (pH 6.2); clear smooth boundary.  (10 to 18 cm thick)
+
+   E--20 to 35 cm; brown (7.5YR 5/4) stony loam, brown (7.5YR 4/2) moist; weak medium subangular blocky and moderate very fine granular structure; hard, firm, slightly sticky and slightly plastic; many fine, medium and coarse roots; 25 percent stones; slightly acid (pH 6.2); abrupt wavy boundary.  (10 to 20 cm thick)
+
+   Bt1--35 to 48 cm; brown (7.5YR 5/4) clay, reddish brown (5YR 4/3) moist; strong fine and medium angular blocky structure; very hard, very firm, sticky, very plastic; many medium and coarse roots; many moderately thick clay films on faces of peds; 5 percent pebbles; slightly acid (pH 6.5); clear wavy boundary.  (10 to 15 cm thick)
+
+   Bt2--48 to 71 cm; reddish brown (5YR 5/4) clay, dark reddish brown (5YR 3/4) moist; weak coarse prismatic structure that parts to strong medium angular blocky structure; very hard, extremely firm, sticky, very plastic; continuous thick clay films on faces of peds; 5 percent pebbles; slightly acid (pH 6.5); clear wavy boundary.  (18 to 25 cm thick)
+
+   Bt3--71 to 84 cm; reddish brown (2.5YR 5/4) clay loam, reddish brown (2.5YR 4/4) moist; moderate medium angular blocky structure; very hard, extremely firm, slightly sticky, very plastic; many thick clay films on faces of peds; 5 percent pebbles and 5 percent cobbles; neutral (pH 7.0); clear wavy boundary.  (10 to 15 cm thick)
+
+   C--84 to 142 cm; reddish brown (5YR 5/4) very gravelly sandy clay, reddish brown (5YR 4/4) moist; massive; very hard, very firm, slightly sticky, plastic; 45 percent pebbles, cobbles, and stones; slightly alkaline (pH 7.5); abrupt wavy boundary.  (40 to 60 cm thick)
+
+   2R--142 cm; basalt rock.
+
+TYPE LOCATION:  Colfax County, New Mexico; about 10 km east-northeast of Black Lake, New Mexico; about 615 meters south and 565 meters west of NE corner sec. 8, T.24N., R.17E.; 105 degrees, 09 minutes, 20 seconds w. longitude; 36 degrees, 19 minutes, 42 seconds n. latitude.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 8 degrees C
+Mean summer soil temperature--15 to 16 degrees C
+Depth to lithic bedrock--100 to 150 cm or more
+Thickness of argillic horizon--38 to 56 cm
+Total rock fragments--0 to 45 percent above control section, 0 to 15 percent in the control section and 35 to 55 percent below the control section
+Reaction--pH 6.1 to 7.6 
+
+A horizon
+Hue--7.5YR or 10YR
+Value--3 through 5 dry, 2 or 3 moist
+Chroma--2 through 4
+Texture--loam, silt loam, sandy loam
+
+E horizon
+Hue--7.5YR or 5YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--2 through 4
+Texture--loam or silt loam
+
+Bt horizon
+Hue--2.5YR through 7.5YR
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 through 6
+Texture--Clay loam, clay or silty clay
+
+COMPETING SERIES:  These are the Acel(MT), Bario (NM),  Dandrea (AZ), Echolake(CO)(T), Iles(CO), Loghill(CO)(T), Siesta (AZ), Silesca(CO)(T), and Spud(NM) soils.  Acel soils have cracks wider than 1 centimeter at a depth of 50 cm.  Bario and Iles soils have calcic horizons.  Echolake, Dandrea and Silesca soils have lithic or paralithic contacts at 50 to 100 cm.  Loghill soils do not have E horizons. Siesta soils have cinders in the lower part of the Bt.  Spud soils have argillic horizons with the base more than 100 cm.
+
+GEOGRAPHIC SETTING:  
+Landform--gently sloping to moderately steep, convex basalt flows
+Elevation--2,150 to 3,350 meters
+Slope--1 to 60 percent
+Parent material--stony, fine textured alluvium weathered from basalt, sandstone and shale
+Mean annual precipitation--430 to 585 mm; with more than half occurring during the frost-free period
+Mean annual air temperature--5 to 7 degrees C
+Frost-free period--70 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; very slow permeability. (Permeability is slow in Colorado).
+
+USE AND VEGETATION:  Commercial woodland, wildlife, and recreation.  Douglas-fir, white fir, limber pine, aspen, Englemann, blue spruce, and mountain grasses are the principal plants.
+
+DISTRIBUTION AND EXTENT: Burnac soils are moderately extensive in northern New Mexico and southwest Colorado; MLRAs 48A
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Bernalillo County (Albuquerque Area), New Mexico, 1973.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--5 to 20 cm
+Mollic feature--the A horizon is dark enough but not thick enough for a mollic
+Albic horizon--20 to 35 cm (E horizon)
+Argillic horizon--35 to 84 cm (Bt horizons)
+Particle-size control section--35 to 84 cm (Bt horizons) 
+
+Converted to metric and O horizons were updated to start at zero; 3/2022
+
+National Cooperative Soil Survey
+U.S.A.

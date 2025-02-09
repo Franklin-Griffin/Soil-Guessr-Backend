@@ -1,0 +1,78 @@
+LOCATION CRUBAS                 NM
+
+Established Series
+Rev. MWR/RJA/KLS
+01/2023
+
+CRUBAS SERIES
+
+The Crubas series consists of very deep, poorly drained, slowly permeable soil that formed in alluvium from metamorphic rock.  Crubas soils are on valley bottoms and swales.  Slopes are 0 to 5 percent.  Mean annual precipitation is about 840 mm and the mean annual air temperature is about 2 degrees C.
+
+TAXONOMIC CLASS: Fine, mixed, superactive Typic Cryaquolls
+
+TYPICAL PEDON:  Crubas clay loam - meadow.  (Colors are for dry soil unless otherwise noted.)
+
+    O--0 to 8 cm; partly decomposed organic matter.
+
+    A--8 to 38 cm; dark grayish brown (10YR 4/2) clay loam, very dark brown (10YR 2/2) moist; common medium distinct strong brown (7.5YR 5/8) mottles; weak fine granular structure; soft, very friable, sticky and plastic; many fine and very fine roots; common fine and very fine interstitial pores; strongly acid; abrupt smooth boundary.  (18 to 36 cm thick)
+
+    Cg1--38 to 94 cm; gray (10YR 6/1) clay, gray (10YR 5/1) moist; common medium distinct strong brown (7.5YR 5/8) mottles; massive; very hard, firm, very sticky and very plastic; few fine and very fine roots; few fine and common very fine tubular pores; strongly acid; clear wavy boundary.  (46 to 100 cm thick)
+
+    2Cg2--94 to 160 cm; gray (10YR 6/1) gravelly clay, gray (10YR 5/1) moist; many large distinct strong brown (7.5YR 5/8) mottles; massive; hard, firm, very sticky and very plastic; few very fine roots; few very fine tubular pores; 20 percent pebbles; strongly acid.
+
+TYPE LOCATION:  Rio Arriba County, New Mexico; about 20 km east and 6 km south of Chama, NM; lat. 36 degrees, 51 minutes, 19 seconds N, long. 106 degrees, 27 minutes, 08 seconds W 
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 4 degrees C
+Mean summer soil temperature--4 to 6 degrees C
+Soil moisture--saturated in winter, spring and early summer. This soil is associated with seeps and springs
+Depth to mottles--0 to 15 cm
+Thickness of mollic epipedon--18 to 36 cm
+Depth to water table--0 to 50 cm
+Particle-size control section:
+Clay content--35 to 50 percent
+Reaction--pH 5.1 to 6.1
+
+A horizon
+Value--2 or 3 moist
+
+Cg horizon
+Value--5 or 6 dry
+Chroma--1 or 2
+
+2Cg horizon
+Value--5 or 6 dry
+Chroma--1 or 2
+Rock fragment content--15 to 30 percent pebbles
+
+COMPETING SERIES:  There are no competing series.
+
+GEOGRAPHIC SETTING:  
+Landform--valley bottoms and swales
+Elevation--2925 to 3175 meters 
+Slope--0 to 5 percent
+Parent material--alluvium from metamorphic rock
+Mean annual precipitation--760 to 890 mm
+Mean annual air temperature--2 to 3 degrees C
+Frost-free period--50 to 70 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Poorly drained; slow runoff; slow permeability; water table 0 to 50 cm; and occasionally flooded
+
+USE AND VEGETATION:  Crubas soils are used for livestock grazing and wildlife habitat.  The present vegetation is bluegrass, sedges, rushes, alpine timothy, shrubby cinquefoil, clover and tufted hairgrass.
+
+DISTRIBUTION AND EXTENT:  Crubas soils are of small extent in the northcentral mountains of New Mexico; MLRA 48A
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Rio Arriba County, New Mexico, 1989.  The series name is coined.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon--8 to 38 cm (A horizon)
+Particle-size control section--25 to 100 cm (part the A, all of the Cg1, and part of the 2Cg2 horizons)
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 12/2022
+
+National Cooperative Soil Survey
+U.S.A.

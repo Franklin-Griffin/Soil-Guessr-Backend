@@ -1,0 +1,90 @@
+LOCATION YOCHUM                 CO
+
+Established Series
+Rev. AJC-LF-KLS
+05/2023
+
+YOCHUM SERIES
+
+The Yochum series consists of very deep, well drained soils that formed in residuum weathered from red bed sandstones and loamstones. These soils are on hills, ridges, and mountain side slopes.  Slopes are 2 to 50 percent. Mean annual precipitation is about 510 mm, and mean annual air temperature is about 2 degrees C. 
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Lamellic Haplocryalfs
+
+TYPICAL PEDON:  Yochum gravelly sandy loam - forest. (Colors are for dry soil unless otherwise noted.)
+
+    Oi--0 to 3 cm; undecomposed organic material principally needles, bark, twigs, and leaves.
+
+    Oe--3 to 6 cm; partially decomposed material like that of the horizon above.
+
+    E--6 to 26 cm; light reddish brown (5YR 6/4) gravelly sandy loam, reddish brown (5YR 5/4) moist; weak thick platy structure that parts to medium granules; soft, very friable, nonsticky, nonplastic; 20 percent gravel; moderately acid (pH 5.6); clear wavy boundary.  (10 to 60 cm thick)
+
+    Bt--26 to 72 cm; mixed light reddish brown (5YR 6/4) and reddish brown (2.5YR 5/4) very gravelly sandy loam containing discontinuous lenses and seams of heavy sandy loam, sandy clay loam, loam, and clay loam, reddish brown (5YR 5/4) and olive brown (2.5Y 4/4) moist; weak medium subangular blocky structure; slightly hard, very friable, nonsticky, nonplastic; some of the more clayey peds are hard, friable, slightly sticky, slightly plastic; few wax-like patches on the faces of the more clayey peds and in root channels and pores in these areas; wax-like coatings on some of the coarse fragments and as bridges between sand grains; 50 percent gravel; moderately acid (pH 6.0); gradual wavy boundary.  (20 to 125 cm thick)
+
+    Cr--72 to 108 cm; reddish brown noncalcareous sandstone and loamstone.
+
+TYPE LOCATION:  Jackson County, Colorado; about 4 km above Bockman's Lumber Camp on Montgomery Pass Road in the NW1/4 of sec. 29, T. 7 N., R. 76 W. (unsurveyed).
+
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--4 degrees C
+Mean summer soil temperature--11 degrees C
+Base saturation--60 to 100 percent in all subhorizons of the argillic horizon
+Depth to paralithic contact--50 to 150 cm
+Depth to top of argillic horizon--less than 60 cm
+Depth to base of argillic horizon--40 to 100 cm
+Rock fragment content--35 to 75 percent in a major part of the solum and any C horizon and are mainly 5 to 250 mm in diameter
+A thin dark colored A horizon may be present in some pedons, and a C horizon may occur above the bedrock.
+
+A horizon, if present,
+Hue--10YR through 5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--1 through 3
+Reaction--pH 5.6 to 7.3
+
+E horizon 
+Hue--7.5YR through 2.5YR
+Value--5 through 8 dry, 4 through 6 moist
+Chroma--1 through 6
+Reaction--pH 5.6 to 7.3
+
+Bt horizon
+Hue--5YR through 10R
+Value--5 through 7 dry, 4 through 6 moist
+Chroma--1 through 6
+Texture--variable, with the horizon consisting of lamellae of sandy loam, sandy clay loam, loam or clay loam in a matrix of sandy loam.  If mixed proportionally to occurrence within the pedon the composite texture of the fine earth fraction is finer than loamy fine sand.
+Reaction--pH 5.6 to 7.3
+
+C horizon, if present above the bedrock
+Hue--5YR through 10R
+Texture--gravelly or very gravelly sandy loam
+Reaction--pH 5.6 to 7.3
+
+COMPETING SERIES:  These are the Hyannis, Siebert, and Troutville series.  Hyannis, Siebert, and Troutville soils have hue of 7.5YR or yellower.  Also, Troutville soils lack a paralithic contact above a depth of 100 cm.
+
+GEOGRAPHIC SETTING:
+Landform--hills, ridges, and mountain side slopes
+Elevation--2590 to 3200 meters
+Slope--2 to 50 percent
+Parent material--residuum weathered from red bed sandstones and loamstones
+Mean annual precipitation--510 to 760 mm with peak periods of precipitation in the spring and summer
+Mean annual air temperature--minus 1 to 2 degrees C
+Mean summer air temperature--11 degrees C
+Frost-free period--20 to 30 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
+
+DRAINAGE AND PERMEABILITY:  Well drained; slow to very slow runoff; moderately rapid permeability.
+
+USE AND VEGETATION:  These soils are used for grazing or for timber production.  Native vegetation is spruce, fir, lodgepole pine, juniper, and wild rose.
+
+DISTRIBUTION AND EXTENT:  Yochum soils are of limited extent in the mountainous areas of central Colorado; MLRA 48A.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Jackson County, Colorado, 1973.
+
+REMARKS:  Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 05/2023
+
+Yochum soils have a cryic temperature regime and a udic soil moisture regime.
+
+National Cooperative Soil Survey
+U.S.A.

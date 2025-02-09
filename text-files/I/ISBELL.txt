@@ -1,0 +1,98 @@
+LOCATION ISBELL                 UT
+
+Established Series
+Rev. EJ/JAC/KLS
+01/2023
+
+ISBELL SERIES
+
+The Isbell series consists of deep, well drained soils that formed in material weathered from calcareous sandstone and shale. These soils are on mountain slopes, alluvial fans and stream terraces. The mean annual precipitation is about 510 mm and the mean annual air temperature is about 6 degrees C.
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, frigid Typic Argixerolls
+
+TYPICAL PEDON:  Isbell loam, rangeland. (Colors are for moist soil unless otherwise noted.)
+
+    Oi--0 to 3 cm; matted leaves and stems.
+
+    A1--3 to 13 cm; very dark grayish brown (10YR 3/2) loam, brown (10YR 4/3) dry; moderate medium granular structure; soft, friable, slightly sticky and slightly plastic; neutral (pH 6.8), clear smooth boundary.
+
+    A2--13 to 23 cm; very dark grayish brown (10YR 3/2) loam, brown (10YR 4/3) dry; weak medium subangular blocky structure that parts to moderate medium granular; hard, friable, slightly sticky and slightly plastic; 10 percent cobbles; neutral (pH 6.8); clear wavy boundary. (Combined thickness of A horizons - 20 to 40 cm thick)
+
+    Bt1--23 to 48 cm; very dark grayish brown (10YR 3/2) clay loam, brown (10YR 5/3) dry; moderate medium subangular blocky structure; very hard, firm, sticky and plastic; common thin and moderately thick clay films on faces of peds; 15 percent cobbles; neutral (pH 7.0); clear smooth boundary. 
+
+    Bt2--48 to 66 cm; dark grayish brown (10YR 4/2) light clay loam, pale brown (10YR 6/3) dry; moderate medium subangular blocky structure; very hard, firm, slightly sticky and plastic; few fine and medium pores; common thin clay skins; 15 percent gravel; slightly calcareous, lime is massive; neutral (pH 7.0); clear smooth boundary. (40 to 90 cm thick)
+
+    C1--66 to 94 cm; olive brown (2.5Y 4/4) silty clay, pale brown (10YR 6/3) dry; moderate medium subangular blocky structure; extremely hard, very firm, sticky and very plastic; slightly calcareous, lime is veined; strongly alkaline (pH 8.6); clear smooth boundary. (28 to 60 cm thick)
+
+    C2--94 to 124 cm; olive (5Y 5/3) light silty clay, pale olive (5Y 6/3) dry; moderate medium angular blocky structure; extremely hard, very firm, sticky and very plastic; slightly calcareous, lime is veined; strongly alkaline (pH 8.6); clear smooth boundary. (0 to 60 cm thick)
+
+    C3--124 to 154 cm; light olive brown (2.5Y 5/4) loam, pale olive (5Y 6/3) dry; weak medium angular blocky structure; very hard, firm, slightly sticky and slightly plastic; moderately calcareous, lime is massive; strongly alkaline (pH 8.6).
+
+TYPE LOCATION: Morgan County, Utah; about 5 km north and 10 km east of Croydon; about 670 meters west and 410 meters south of the NE corner of sec. 6, T.4N., R.SE.
+
+RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature at depth of 50 cm--5 to 7 degrees C
+Mean summer soil temperature--16 to 20 degrees C
+Soils are usually moist but are dry for 50 to 85 consecutive days during the late summer.
+Mollic epipedon thickness--25 to 50 cm, extending into the Bt horizon in most pedons
+Combined thickness of the A and Bt horizons--65 to 130 cm
+Depth to lithic contact--100 to 150 cm to weathered sandstone or shale bedrock
+
+A horizons
+Hue--dominant hue of 10YR, but ranges from 2.5Y to 7.5YR
+Value--3 through 5 dry, 2 or 3 moist
+Chroma--1 to 3 dry and moist
+Rock fragment content--0 to 25 percent total; 0 to 20 percent pebbles, 0 to 5 percent cobbles
+Reaction--pH 6.1 to 7.3
+
+Bt horizons
+Hue--7.5YR through 2.5Y
+Value--5 through 7 dry, 3 through 5 moist
+Chroma--2 through 4 dry and moist
+Texture--clay loam or silty clay loam to sandy clay loam
+Rock fragment content--0 to 25 percent total; 0 to 20 percent pebbles, 0 to 5 percent cobbles 
+This horizon has few to continuous thin, and few moderately thick clay films on faces of peds.
+It is dominantly noncalcareous but may be slightly calcareous in the lower part of some pedons.
+Reaction--pH 6.1 to 7.3
+
+C horizons
+Hue--10YR, 2.5Y or 5Y; most pedons have hue of 2.5Y or 5Y in some parts
+Value--5 through 7 dry, 4 or 5 moist
+Chroma--1 through 4 dry, 2 through 6 moist
+Texture--loam, silty clay loam, silty clay. 
+Some pedons have a gravelly substratum phase of very cobbly loam or gravelly sandy loam below depths of 100 cm. 
+Rock fragment content--0 to 70 percent total; 0 to 40 percent pebbles, 0 to 30 percent cobbles 
+It is noncalcareous to moderately calcareous.
+Reaction--pH 6.1 to 9.0
+
+COMPETING SERIES: These are the Cloud Rim, Crume, Kanlee, Maple Mountain, Molyneux and Sewell series. Cloud Rim soils have a solum more than 125 cm thick. Crume soils have 3 to 30 percent pumice ash in the solum, have diatomite or tuff-like bedrock deeper than 100 cm, lack hue yellower than 10YR in any part, and are noncalcareous throughout.  Kanlee soils have a lithic contact at depths of 50 to 100 cm. Maple Mountain soils have 20 to 35 percent rock fragments in the Bt horizon.  Molyneux soils have 40 to 65 cm of solum and occur in a 300 to 410 mm precipitation zone. Sewell soils are 50 to 100 cm deep to bedrock.
+
+GEOGRAPHIC SETTING: 
+Landform--mountain slopes, alluvial fans, and stream terraces
+Elevation--1675 to 2600 meters
+Slope--6 to 60 percent
+Parent material--residuum and alluvium weathered from calcareous sandstone and shale
+Climate--moist subhumid
+Mean annual precipitation--410 to 640 mm
+Mean annual air temperature--minus 1 to 7 degrees C
+Mean summer air temperature--15 to 17 degrees C
+Frost-free period--65 to 80 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY: Well drained; medium or slow runoff; moderately slow permeability.
+
+USE AND VEGETATION: These soils are used for watershed, range and wildlife habitat. The present native vegetation is Gambel oak, serviceberry, bluebunch wheatgrass, balsamroot, chokecherry, snowberry, peavine, native bluegrass, and basin wildrye.
+
+DISTRIBUTION AND EXTENT:  Isbell soils are of small extent in northern and central Utah; MLRA 47
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED: Morgan Area, Utah, 1974
+
+REMARKS: The superactive cation exchange activity class was added in 03/2003 to the taxonomic classification by the National Soil Survey Center on request of the Reno MLRA office, without review of the soil series property data. 
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 12/2022
+
+National Cooperative Soil Survey
+U.S.A.

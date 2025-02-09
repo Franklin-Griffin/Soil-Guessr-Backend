@@ -1,0 +1,119 @@
+LOCATION MILLERLAKE             WY+CO MT UT
+
+Established Series
+Rev. PSD/EMM/KLS
+12/2022
+
+MILLERLAKE SERIES
+
+The Millerlake series consists of deep, well drained soils that formed in slope alluvium and other sediments derived from sedimentary rock.  These soils are on fan aprons, terraces, structural benches, and lower mountain slopes.  Slopes are 2 to 35 percent.  The mean annual precipitation is about 457 mm, and the mean annual temperature is about 3 degrees C.
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive Pachic Argicryolls
+
+TYPICAL PEDON:  Millerlake loam-rangeland.  (Colors are for dry soil unless otherwise stated.)
+
+      Oe--0 to 3 cm; partially decomposed leaves, grass, and other organic materials.
+
+      A--3 to 13 cm; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; strong fine granular structure; soft, very friable, slightly sticky and slightly plastic; many fine and medium roots; neutral (pH 6.8); clear smooth boundary.  (8 to 25 cm thick)
+
+      BA--13 to 21 cm; grayish brown (10YR 5/2) loam, very dark grayish brown (10YR 3/2) moist; moderate medium subangular blocky structure parting to strong medium granular; hard, friable, slightly sticky and slightly plastic; many fine and medium and few coarse roots; few thin clay films on faces of peds and lining pores; neutral (pH 6.8); gradual smooth boundary.  (0 to 20 cm thick)
+
+      Bt--21 to 54 cm; grayish brown (10YR 5/2) clay loam, very dark grayish brown (10YR 3/2) moist; moderate coarse subangular blocky structure parting to strong medium angular blocky; hard, friable, sticky and plastic; many fine and few coarse roots; many moderately thick clay films on faces of peds, and lining pores; neutral (pH 7.2); gradual wavy boundary.  (25 to 76 cm thick)
+
+      Btk--54 to 74 cm; grayish brown (10YR 5/2) loam, dark grayish brown (10YR 4/2) moist; strong coarse subangular blocky structure; very hard, firm, slightly sticky and slightly plastic; few fine and coarse roots; few thin clay films on faces of peds and lining pores; strongly effervescent, lime as common soft masses and as filaments and in seams; moderately alkaline (pH 8.4); gradual wavy boundary.  (0 to 25 cm thick)
+
+      Bk--74 to 155 cm; light gray (10YR 7/2) loam, light brownish gray (10YR 6/2) moist; massive; hard, friable, slightly sticky and slightly plastic; violently effervescent, lime as common soft masses, filaments, and seams; moderately alkaline (pH 8.4).
+
+TYPE LOCATION:  Carbon County, Wyoming; West quarter corner, sec. 11, T. 18 N., R. 89 W.
+
+RANGE IN CHARACTERISTICS:  
+Depth to base of argillic horizon--50 cm or more
+Depth to any contrasting material--more than 100 cm
+Mean annual soil temperature--3 to 6 degrees C
+Mean summer soil temperature--10 to 13 degrees C
+Total rock fragment content--0 to 15 percent throughout
+
+A horizon 
+Hue--5Y to 7.5YR
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--1 to 3  
+Reaction--pH 6.1 to 7.4
+
+Bt horizon 
+Hue--5Y to 7.5YR 
+Value--4 to 6 dry, 2 to 4 moist
+Chroma--1 to 4  
+Texture--clay loam or loam
+Clay content--18 to 35 percent
+Sand content--15 to 35 percent fine or coarser sand
+Reaction--pH 6.3 to 7.6
+
+Btk horizon 
+Hue--5Y to 7.5YR 
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--2 to 4  
+Texture--loam or clay loam  
+Calcium carbonate equivalent--4 to 14 percent  
+Reaction--pH 7.8 to 8.6
+
+Bk horizon 
+Hue--5Y to 7.5YR
+Value--5 to 7 dry, 4 to 6 moist 
+Chroma--2 to 4  
+Texture--loam or clay loam  
+Calcium carbonate equivalent--8 to 14 percent
+Reaction--pH 7.8 to 8.6
+
+COMPETING SERIES:  
+Bachus (WY) - are moderately deep to lithic contact
+Bavdark (MT) - do not have a horizon of secondary calcium carbonate accumulation
+Benteen (MT) - are moderately deep to lithic contact
+Brushtop (ID) - have a xeric moisture regime
+Clayburn (UT) - have a udic moisture regime
+Croydon (UT) - are deep to lithic contact
+Crystalbutte (ID) - have a xeric moisture regime
+Davtone (CO) - have hues of 5YR or redder in the Bt horizon
+Dehana (ID) - have a lithologic discontinuity
+Demast (ID) - are moderately deep to lithic contact
+Dranyon (ID) - have a udic soil moisture regime
+Echemoor (WY) - are moderately deep to paralithic contact
+Hagenbarth (ID) - have a xeric soil moisture regime
+Hoopgobel (ID) - are moderately deep to paralithic contact
+Longway (ID) - do not have a horizon of secondary calcium carbonate accumulation
+Lostminer (UT) - are moderately deep to lithic contact
+Odark (MT) - do not have horizons of secondary calcium carbonate accumulation
+Senchert (UT) - are moderately deep to lithic contact
+Southmount (ID) - have redox concentrations at 45 to 100 cm
+Poodle (NV) - are moderately deep to paralithic contact
+Stubbs (WY) - are moderately deep to paralithic contact
+Thulepah (NV) - have a lithologic discontinuity
+Vadnais (ID) - are moderately deep to lithic contact
+Winu (NV) - are moderately deep to lithic contact
+
+GEOGRAPHIC SETTING: 
+Landform--fan aprons, terraces, structural benches, and lower mountain footslopes and toeslopes  
+Elevation--1975 to 2900 meters
+Parent Material--slope alluvium and other sediments derived from sedimentary rock
+Slope--2 to 35 percent
+Mean annual precipitation--380 to 610 mm
+Mean annual temperature--1 to 4 degrees C
+Frost-free season--less than 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
+
+DRAINAGE AND PERMEABILITY:  Well drained; permeability is moderately slow
+
+USE AND VEGETATION:  Rangeland and wildlife habitat.  Native vegetation consists of Idaho fescue, Columbia needlegrass, thickspike wheatgrass, and big sagebrush.  Some areas support relatively thick stands of aspen.
+
+DISTRIBUTION AND EXTENT:  The Millerlake series is of moderate extent in western and southcentral Wyoming, western Colorado and southcentral Montana and central Utah. MLRAs 43B, 46, and 48A.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Aspen-Gypsum Area, Colorado; 1982
+
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
+
+Millerlake soils have a cryic soil temperature regime and an ustic soil moisture regime. 
+
+National Cooperative Soil Survey
+U.S.A.

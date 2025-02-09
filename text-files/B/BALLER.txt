@@ -1,0 +1,90 @@
+LOCATION BALLER                 CO
+
+Established Series
+Rev. DM-RHM-KLS
+05/2023
+
+BALLER SERIES
+
+The Baller series consists of shallow, well drained soils that formed in material weathered from sandstone. Baller soils are on upland hills, hogbacks and homoclinal ridges in the foothills of central Colorado.  Slopes are 2 to 30 percent. The mean annual precipitation is about 460 mm and the mean annual air temperature is about 8 degrees C.
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Lithic Haplustolls
+
+TYPICAL PEDON: Baller very stony fine sandy loam, grassland. (Colors are for dry soil unless otherwise noted.)
+
+    A--0 to 25 cm; grayish brown (10YR 5/2) very stony fine sandy loam, very dark grayish brown (10YR 3/2) moist; moderate fine granular structure; soft, very friable; 50 percent stones and cobbles, mostly sandstone; neutral (pH 7.0); clear smooth boundary. (15 to 51 cm thick)
+
+    C--25 to 38 cm; light brownish gray (10YR 6/2) very stony fine sandy loam, dark grayish brown (10YR 4/2) moist; massive; slightly hard, very friable; 60 percent stones and cobbles, mostly sandstone; neutral (pH 7.0); abrupt smooth boundary. (0 to 36 cm thick)
+
+    R--38 cm; noncalcareous hard sandstone.
+
+TYPE LOCATION: Boulder County, Colorado; approximately 305 meters south and 457 meters west of the northeast corner of section 7, T. 2 N., R. 70 W.; USGS Lyons topographic quadrangle; lat. 40 degrees, 10 minutes, 21 seconds N. and long. 105 degrees, 16 minutes, 6 seconds W.; NAD 83
+
+RANGE IN CHARACTERISTICS: 
+Soil moisture - soils are moist in April, May and June
+Mean annual soil temperature - 8 to 14 degrees C 
+Mean summer soil temperature - 15 to 22 degrees C
+Thickness of mollic epipedon - 16 to 50 cm
+Organic carbon - 0.7 to 2 percent in the mollic epipedon; decreasing uniformly with increasing depth
+Base saturation - 80 to 100 percent
+Depth to lithic contact - 25 to 50 cm
+
+Particle-size control section (weighted average):
+Clay content - 5 to 18 percent
+Sand content - 52 to 80 percent with more than 35 percent fine sand or coarser
+Rock fragment content - 35 to 75 percent consisting mainly of cobbles and stones of sandstone lithology
+
+A horizon
+Hue: 5Y through 7.5YR
+Value: 4 or 5 dry, 2 or 3 moist
+Chroma: 2 or 3, dry or moist
+Texture:  sandy loam or fine sandy loam
+Reaction: pH 6.1 to 7.8
+
+C horizon
+Hue: 5Y through 7.5YR
+Texture:  sandy loam or fine sandy loam
+Reaction: pH 6.1 to 7.8
+Note: This horizon is generally noncalcareous but can be inconsistently calcareous in the few centimeters immediately above bedrock in some pedons. This horizon may be absent in some pedons and the mollic epipedon may extend to bedrock.
+
+COMPETING SERIES:
+Boriana (AZ) - have rock fragments of granitic lithology
+Demayo (CO) - have more than 18 percent clay in the control section; have rock fragments of basalt lithology
+Docdee (NM) - have more than 18 percent clay in the control section
+Far (AZ) - have a typic ustic soil moisture regime and are driest in May and June
+Huachuca (AZ) - have a typic ustic soil moisture regime and are driest in May and June
+Lozen (TX) - have more than 18 percent clay in the control section
+
+GEOGRAPHIC SETTING: 
+Landform - upland hills, hogbacks and homoclinal ridges
+Elevation - 1,650 to 2,200 meters
+Slope - 2 to 30 percent
+Parent material - slope alluvium and colluvium over residuum derived from sandstone
+Mean annual air temperature - 7 to 10 degrees C 
+Mean annual precipitation - 410 to 510 mm
+Precipitation pattern - peak periods of precipitation occur during the spring and summer 
+Frost-free period - 110 to 135 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
+
+DRAINAGE AND PERMEABILITY: Well drained; rapid runoff; moderately rapid permeability above bedrock.
+
+USE AND VEGETATION: Baller soils are used principally for recreation, building sites, wildlife, woodland, quarry sites and limited grazing as native pastureland. Native plants include ponderosa pine, three-leaf sumac, mountain mahogany, green rabbitbrush, blue grama, cactus, yucca, green needlegrass, sand dropseed, and scattered juniper.
+
+DISTRIBUTION AND EXTENT: Baller soils are of moderate extent in the foothills along the eastern front of the Rocky Mountains in central Colorado; MLRA 49.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED: Boulder Area, Colorado, 1971.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon - 0 to 25 cm (A horizon)
+Lithic contact - 38 cm to hard sandstone bedrock (R horizon)
+Particle-size control section - 25 to 38 cm (C horizon)
+
+Baller soils have a mesic soil temperature regime and an ustic soil moisture regime bordering on aridic.
+
+Converted to metric, formatting updated to current standards, competing series section updated.  04/2020
+
+National Cooperative Soil Survey
+U.S.A.

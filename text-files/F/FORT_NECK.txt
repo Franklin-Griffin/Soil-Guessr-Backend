@@ -1,0 +1,137 @@
+LOCATION FORT NECK              CT+RI
+
+Established Series
+Revised MKP-JDT-DCP-BEF
+09/2024
+
+FORT NECK SERIES
+
+MLRA(s)--144A, 145, and 149B
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--1 to 222 centimeters
+Parent material--Coarse-loamy estuarine deposits and may overlay glaciofluvial or melt-out till deposits
+Geomorphic location--Shallow lagoon bottoms and mainland coves
+Slope range--0 to 2 percent
+Mean annual air temperature--10 degrees C (50 degrees F)
+Mean annual precipitation--1295 millimeters (51 inches)
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, mesic Haplic Sulfiwassents
+
+TYPICAL PEDON: Fort Neck silt loam on a north facing, nearly level slope in a mainland cove under 0.6 m of estuarine water. Tidal range is 80 centimeters. (Colors are for moist soil unless otherwise stated).
+
+ Aseg--0 to 15 centimeters; black (10YR 2/1) silt loam; gray (10YR 5/1) dry; massive; nonsticky, nonplastic, very fluid; slight sulfurous odor; strongly saline (38 dS/m); neutral (pH 7.1); extremely acid (pH 4.4) oxidized pH; gradual boundary.
+
+ ACseg1--15 to 27 centimeters; black (10YR 2/1) silt loam; massive; nonsticky, nonplastic, very fluid; 2 percent macroalgal fragments, 0 percent rubbed; moderate sulfurous odor; strongly saline (36 dS/m); slightly alkaline (pH 7.4); extremely acid (pH 4.3) oxidized pH; gradual boundary.
+
+ ACseg2--27 to 39 centimeters; greenish black (5GY 2.5/1) silt loam; massive; nonsticky, nonplastic, very fluid; moderate sulfurous odor; strongly saline (45 dS/m); slightly alkaline (pH 7.6); extremely acid (pH 4.1) oxidized pH; clear boundary. (Combined thickness of A and AC horizons 10 to 83 centimeters thick.)
+
+ Cseg1--39 to 78 centimeters; very dark greenish gray (10Y 3/1) silt loam; massive; nonsticky, nonplastic, nonfluid; 5 percent herbaceous fibers, 0 percent rubbed; 1 percent gravel; moderate sulfurous odor; strongly saline (31 dS/m); neutral (pH 7.3); extremely acid (pH 3.8) oxidized pH; abrupt boundary.
+
+ Cseg2--78 to 91 centimeters; black (10YR 2/1) sandy loam; massive;  nonsticky,nonplastic, nonfluid; 15 percent herbaceous fibers, 0 percent rubbed; 1 percent gravel; moderate sulfurous odor; strongly saline (41 dS/m); neutral (pH 7.2); extremely acid (pH 3.7) oxidized pH; clear boundary.
+
+ Cseg3--91 to 112 centimeters; black (10YR 2/1) fine sandy loam; massive;  nonsticky, nonplastic, nonfluid; 10 percent herbaceous fibers, 0 percent rubbed; strongly saline (31 dS/m); neutral (pH 7.1); extremely acid (pH 4.3) oxidized pH; clear boundary.
+
+ Cseg4--112 to 122 centimeters; black (2.5Y 2.5/1) sandy loam; massive; nonsticky, nonplastic, nonfluid; 5 percent herbaceous fibers, 0 percent rubbed; strongly saline (42 dS/m); neutral (pH 7.1); extremely acid (pH 4.3) oxidized pH; clear boundary. (Combined thickness of C horizons 0 to 100 centimeters thick)
+
+ 2Cseg5--122 to 200 centimeters; black (7.5YR 2.5/1) gravelly loamy coarse sand; single grain; nonsticky, nonplastic, nonfluid; 16 percent gravel; strongly saline (28 dS/m); neutral (pH 7.1); extremely acid (pH 3.6) oxidized pH.
+
+TYPE LOCATION: New London County, CT; located about 1100 feet northwest of the intersection of Palmer Neck Road and Providence and Worcester Railroad tracks, 2500 feet south east of the intersection of Westerly Road and Elm Street inside Wequetequock Cove; USGS topographic quadrangle: Mystic, CT.
+
+Latitude--41.3494720
+Longitude-- -71.8823318
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--greater than 200 centimeters
+Soil moisture--These soils are continuously inundated.
+Reaction throughout--Strongly acid to moderately alkaline (pH 5.1 to 8.4)
+Oxidized reaction-Ultra acid to very strongly acid (pH <3.5 to 5.5)
+Electrical conductivity (1:5 soil-water), throughout--0.6 dS/m or greater
+Depth to hypersulfidic materials (oxidized pH 4.0)--0 to 50 centimeters
+Rock fragments--Gravel 0 to 15 percent but could be as high as 25 percent in Aseg, ACseg, and Cseg horizons; 2Cseg horizons 0 to 25 percent but may range to 65 percent in some pedons
+Total Soil Organic Carbon Stock 0 to 100 centimeters--7 to 20 kg m-2
+Total Soil Organic Carbon Stock 0 to 200 centimeters--10 to 41 kg m-2
+
+Aseg and ACseg horizons
+Hue--10YR to 5Y
+Value--2 to 3
+Chroma--0 to 1
+Texture--silt loam to loam
+Manner of failure--moderately fluid to very fluid
+Organic carbon density--8 to 26 kg m-3
+
+Cseg horizons
+Hue--10YR to 5Y, or neutral to 5GY
+Value--2 to 5
+Chroma--0 to 2
+Texture--silt loam to sandy loam with mucky and gravelly analogs, stratifications of sandy textures can be present
+Manner of failure--moderately fluid to nonfluid
+Organic carbon density--5 to 25 kg m-3
+
+2Cseg horizon and 3C horizon (where present)
+Hue--7.5YR to 5Y, or neutral through 5GY
+Value--2 to 5
+Chroma--0 to 2
+Texture--fine sandy loam to coarse sand with gravelly analogs
+Manner of failure--nonfluid
+Organic carbon density--2 to 10 kg m-3 
+
+COMPETING SERIES: 
+This is the Marshneck soil. 
+Marshneck soils--are found on flood tidal delta slopes and are dominated by fine sands transported by daily tides
+
+GEOGRAPHIC SETTING:
+Parent material--Coarse-loamy estuarine deposits which may overlay sandy or loamy glacial deposits
+Landscape--Coastal estuaries and lagoons
+Landform--Shallow lagoon bottoms and mainland coves
+Slope--0 to 2 percent
+Mean annual precipitation--1023 to 1370 millimeters (40 to 54 inches)
+Mean annual air temperature--4 to 15.8 degrees C (39.2 to 60.4 degrees F)
+Water salinity range--18 to 30 parts per thousand
+Frost-free period--350 to 365 days   
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Anguilla, Billington, Napatree, Pishagqua, and Wequetequock soils.
+Anguilla soils--are on mainland coves and submerged mainland beaches and have a sandy particle-size class.
+Billington soils--are on mainland coves and have buried organic soil horizons within 100 centimeters of the soil surface
+Napatree soils--are on submerged headlands and mainland beaches, are sandy in the upper part, and lack sulfidic materials.
+Pishagqua and Wequetequock soils--have highly fluid materials at the soil surface and are on deeper lagoon bottoms and mainland coves respectively.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately high to very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by saline and brackish water
+
+USE AND VEGETATION:
+Major uses--The area is used for the harvest of crabs. In addition, fishing is commonplace and the species found in the area are smelt, small cod, flounder, scup, menhaden, and white perch.
+Native vegetation--This soil supports submerged aquatic vegetation and aquatic habitats. Some areas are vegetated with native rooted and floating algae and eelgrass (Zostera marina). Vegetative cover ranges from 0 through 15 percent.
+
+DISTRIBUTION AND EXTENT:
+General area--These soils are located along the Connecticut and Rhode Island coast.
+Land Resource Regions--R - Northeastern Forage and Forest Region and S - Northern Atlantic Slope Diversified Farming Region
+MLRA(s)--144A, 145 and 149B
+Extent--Small 
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
+
+SERIES ESTABLISHED: New London County, Connecticut, 2010.
+
+REMARKS: This subaqueous soil series was mapped previously as water in Connecticut and Rhode Island Soil Survey publications.
+
+Diagnostic horizons and features in this pedon include--
+Peraquic feature--Positive soil water potential (permanently submerged) at the soil surface (under 60 centimeters of salt water).
+Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches).
+Ochric epipedon--0 to 39 centimeters (0 to 15 inches) (Aseg, ACseg1 and ACseg2 horizons).
+Sulfidic materials--The zone from the 39 to 91 centimeters (Cseg1 and Cseg2 horizons).
+Haplic feature--The zone from 39 to 78 centimeters has an n-value of 0.7 or less (Cseg1 horizon).
+Lithologic discontinuity--The zone from 122 to 200 centimeters (2Cseg5 horizon)
+Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA: Type location pedon sample S2006CT011004 in New London County, Connecticut, by KSSL, Lincoln, NE. Additional support pedons used to determine ranges include S2007RI009008, and S2009RI009011, and  (Sampled by the University of Rhode Island).
+
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

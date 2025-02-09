@@ -1,0 +1,100 @@
+LOCATION PRESTO                 ID
+
+Established Series
+Rev. RAS/JOH/BAG
+11/2024
+
+PRESTO SERIES
+
+The Presto series consists of very deep, somewhat excessively drained soils formed in alluvium. These soils are on stream terraces. Slopes are 0 to 4 percent. Mean annual precipitation is about 250 mm, and the mean annual temperature is about 8 degrees C.
+
+TAXONOMIC CLASS: Sandy over loamy, mixed, superactive, mesic Xeric Haplocalcids
+
+TYPICAL PEDON:  Presto loamy sand, in rangeland.  (Colors are for dry soil unless otherwise noted.)
+
+    A1--0 to 8 cm; grayish brown (10YR 5/2) loamy sand, very dark grayish brown (10YR 3/2) moist; weak thin platy structure; soft, very friable, nonsticky and nonplastic; many very fine and fine roots; many very fine interstitial pores; very slightly effervescent; moderately alkaline (pH 8.0); abrupt smooth boundary.
+
+    A2--8 to 20 cm; grayish brown (10YR 5/2) loamy sand, very dark grayish brown (10YR 3/2) moist; weak very fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine roots; many very fine and fine tubular pores; very slightly effervescent; moderately alkaline (pH 8.0); clear wavy boundary.
+
+    Bk1 --20 to 43 cm; brown (10YR 5/3) loamy sand, dark grayish brown (10YR 4/2) moist; single grain; soft, very friable, nonsticky, nonplastic; common very fine and fine roots; common very fine and fine tubular pores; slightly effervescent; moderately alkaline (pH 8.2); gradual wavy boundary.
+
+    Bk2--43 to 71 cm; light brownish gray (10YR 6/2) loamy sand, dark grayish brown (10YR 4/2) moist; single grain; soft, very friable, nonsticky and nonplastic; common very fine roots; many very fine and fine tubular pores; slightly effervescent; moderately alkaline (pH 8.4); gradual wavy boundary.
+
+    2Bk3--71 to 86 cm; light brownish gray (10YR 6/2) silt loam, dark grayish brown (10YR 4/2) moist; weak medium subangular blocky structure; hard, friable, slightly sticky and slightly plastic; common very fine and fine roots; many very fine and fine tubular pores; 20 percent threadlike calcium carbonate masses and 2 percent irregular calcium carbonate masses; violently effervescent; moderately alkaline (pH 8.4); gradual wavy boundary.
+
+    2Bk4--86 to 127 cm; light gray (10YR 7/2) silt loam, grayish brown (10YR 5/2) moist; weak thick platy structure; hard, friable, slightly sticky and slightly plastic; few very fine and fine roots; many very fine and fine tubular pores; 25 percent threadlike calcium carbonate masses and irregular masses; violently effervescent; moderately alkaline (pH 8.4); gradual wavy boundary.
+
+    2Bk5--127 to 150 cm; light brownish gray (10YR 6/2) silt loam, grayish brown (10YR 5/2) moist; weak very coarse subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine tubular pores; 10 percent threadlike calcium carbonate masses and 2 percent irregular calcium carbonate masses; violently effervescent; moderately alkaline (pH 8.4)
+
+TYPE LOCATION:  Bingham County, Idaho; USGS topographic quadrangle Firth; latitude 43.253394 degrees north, longitude 112.200571 degrees west, datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--9 to 10 degrees C
+Depth to calcic horizon--42 to 90 cm
+Depth to lithologic discontinuity--42 to 90 cm
+
+Particle-size control section (weighted averages)
+Clay content-- 1 to 6 percent in the upper part and 12 to 18 percent in the lower part
+Rock fragments--0 to 15 percent gravel
+
+A horizons
+Value--4 to 6 dry, 2 to 4 moist
+Chroma--2 or 3 dry or moist
+Rock fragments--0 to 15 percent gravel
+Reaction--pH 7.8 to 8.4
+Thickness--12 to 30 cm
+
+Bk horizons
+Hue--10YR or 2.5Y
+Value--4 or 6 dry; 3 or 4 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2 mm fraction)--loamy sand, sand  
+Rock fragments--0 to 15 percent gravel
+Calcium carbonate equivalent-- 3 to 5 percent
+Reaction--pH 7.8 to 8.5
+Thickness--30 to 60 cm
+
+2Bk horizons
+Hue--10YR or 2.5Y
+Value--6 or 7 dry; 4 to 6 moist
+Chroma--2 to 4 dry or moist
+Texture (less than 2 mm fraction)--loam, silt loam  
+Calcium carbonate equivalent--5 to 25 percent
+Reaction--pH 8.3 to 8.8
+
+COMPETING SERIES:  There are no competing series.
+
+GEOGRAPHIC SETTING:
+Landform--stream terraces
+Elevation-1,280 to 1,675 meters
+Slope--0 to 4 percent
+Parent material--alluvium dominantly from quartzite and sedimentary rock
+Mean annual precipitation--200 to 300 mm
+Mean annual air temperature--7 to 8 degrees C
+Frost-free period--100 to 120 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained; 50 to 150 um/sec in the upper part and 5 to 15 um/sec in the lower part.
+
+USE AND VEGETATION: Presto soils are primarily used for irrigated cropland. The potential native vegetation is streambank wheatgrass, Indian ricegrass, basin wildrye, needle and thread grass, lupine, big sagebrush, small rabbitbrush, and bitterbrush.
+
+DISTRIBUTION AND EXTENT: Southeast Idaho. The series is not extensive.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED: Bingham County, Idaho  
+
+REMARKS:  Diagnostic horizons and other features:
+
+Ochric epipedon--0 to 20 cm (A horizons)
+Calcic horizon--71 to 150 cm (2Bk3, 2Bk4, and 2Bk5 horizons)
+
+Particle-size control section--25 to 100 cm
+
+Presto soils have a mesic temperature regime and an aridic moisture regime bordering on xeric.
+ 
+Previously classified as a Calcisol. Temperature regime changed from frigid to mesic .
+
+National Cooperative Soil Survey
+U.S.A.

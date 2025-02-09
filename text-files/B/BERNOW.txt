@@ -1,0 +1,130 @@
+LOCATION BERNOW                 OK
+
+Established Series
+Rev. ELC-HLH
+04/2022
+
+BERNOW SERIES
+
+The Bernow series consists of deep, well drained, moderately permeable soils that formed in mostly sandy and loamy residuum derived from sandstone of Cretaceous age. These soils are on broad hillslopes of dissected plains.    Slopes are 0 to 12 percent. Mean annual precipitation is about 1143 mm (45 in) and the mean annual air temperature is about 17.2 degrees C (63 degrees F).
+
+TAXONOMIC CLASS: Fine-loamy, siliceous, active, thermic Glossic Paleudalfs
+
+TYPICAL PEDON:  Bernow fine sandy loam--forest. (Colors are for moist soil unless otherwise stated.)
+
+  A--0 to 18 cm (0 to 7 in); brown (10YR 4/3) fine sandy loam, pale brown (10YR 6/3) dry; weak fine granular structure; hard, friable; neutral; clear smooth boundary.  (Thickness is 8 to 25 cm [3 to 10 in])
+
+  E--18 to 38 cm (7 to 15 in); yellowish brown (10YR 5/4) fine sandy loam, light yellowish brown (10YR 6/4) dry; weak fine granular structure; hard, friable; neutral, clear smooth boundary.  (Thickness is 8 to 43 cm [3 to 17 in])
+
+  Bt1--38 to 97 cm (15 to 38 in); strong brown (7.5YR 5/6) sandy clay loam, reddish yellow (7.5YR 6/6) dry; few fine distinct yellowish red (5YR 5/6) mottles; moderate medium subangular blocky structure; very hard, firm; few thin disco8ntinuous clay films on faces of peds; moderately acid; gradual smooth boundary.  (Thickness is 25 to 91 cm [10 to 36 in])
+
+  Bt2--97 to 122 cm (38 to 48 in); strong brown (7.5YR 5/6) sandy clay loam reddish yellow (7.5YR 6/6) dry; common medium distinct yellowish red (5YR 5/6) mottles; moderate medium subangular blocky structure; very hard, firm; few thin discontinuous clay films on faces of peds; very strongly acid; gradual smooth boundary.  (Thickness is 25 to 76 cm [10 to 30 in])
+
+  Bt and E'--122 to 173 cm (48 to 68 in); coarsely mottled yellowish brown (10YR 5/6) and strong brown (7.5YR 5/6) sandy clay loam (B part); weak coarse subangular blocky structure; very hard, firm; 10 percent gray (10YR 6/1) fine sandy loam (A part) massive; very friable, slightly hard; few thin discontinuous clay films bridging sand grains; few fine dark concretions; strongly acid.
+
+TYPE LOCATION:  Bryan County, Oklahoma; about 4 miles northeast of Bokchito; 1200 feet east and 60 feet north of the southwest corner of sec. 20, T. 6 S., R. 12 E.
+
+USGS topographic quadrangle: Bennington North, OK; 
+Latitude: 34 degrees, 0 minutes, 42.30 seconds N; 
+Longitude: 96 degrees 4 minutes, 23.66 seconds W
+
+Decimal Degrees
+  Latitude: 34.0117500
+  Longitude: -96.0732389
+Datum:  WGS84
+
+RANGE IN CHARACTERISTICS:  
+Soil Moisture: Typic Udic soil moisture regime. The soil moisture control section is not dry in any part for as long as 90 days in normal years.
+Soil Depth: deep, at least 203 cm (80 in)
+Thickness of ochric epipedon: 15 to 58 cm (6 to 23 in)
+Depth to albic horizon: 8 to 25 cm (3 to 10 in)
+Depth to argillic horizon: 15 to 58 cm (6 to 23 in)
+Depth to glossic horizon: 84 to 150 cm (33 to 59 in)
+
+Particle-size control section (weighted average)
+   Clay content: 20 to 32 percent 
+
+Ap or A Horizon
+Hue: 10YR, 7.5YR
+Value: 3 to 6, dry or moist
+Chroma: 2 to 4 , dry or moist (Where the moist value and chroma are less than 3.5 the thickness is less than 18 cm [7 in]).
+Texture: fine sandy loam, loamy fine sand
+Rock fragments: amount-0 to 1 percent; size-fine gravel; kind-quartzite
+Reaction (pH): moderately acid to neutral (5.6 to 7.3)
+
+E Horizon
+Hue: 10YR, 7.5YR
+Value: 4 to 6, dry or moist
+Chroma: 2 to 6, dry or moist
+Texture: fine sandy loam, loamy fine sand
+Rock fragments: amount-0 to 1 percent; size-fine gravel; kind-quartzite
+Reaction (pH): strongly acid to neutral (5.1 to 7.3)
+
+Bt Horizon
+Hue: 10YR, 7.5YR, 5YR
+Value: 4 to 6, dry or moist 
+Chroma: 4 to 8, dry or moist 
+Mottles: 0 to 20 percent, shades of gray, brown, yellow, or red (dry or moist)
+Texture: loam, sandy clay loam, clay loam (Some pedons contain clean sand grains comprising less than 2 percent).
+Clay Content: 20 to 32 percent
+Reaction (pH): very strongly acid to slightly acid (4.5 to 6.1)
+
+Bt and E' Horizon
+Hue: 10YR or 7.5YR
+Value: B part--4 to 6, dry or moist; E part--5 to 8, dry or moist
+Chroma: B part--4 to 8, dry or moist; E part--1 to 6, dry or moist 
+Mottles: B part only--0 to 20 percent, shades of gray, brown, yellow, or red (dry or moist)
+Texture: B part-- loam, sandy clay loam, clay loam; E part--fine sandy loam (E part is 5 to 15 percent of the matrix and occurs as pockets, vertical streaks, or ped coatings).
+Iron-manganese concentrations: 0 to 1 percent iron-manganese concretions, size- fine
+Reaction (pH): very strongly acid to strongly acid (4.5 to 5.5)
+
+COMPETING SERIES:  These are the Bernaldo and Gallime series and the closely similar Besner, Evangeline, Naldo, Vesey, and Whakana series. 
+Bernaldo soils: are browner than 5YR hue and have a perched water table at a depth of 4 to 6 feet.  
+Besner soils: are coarse-loamy.
+Evangeline soils: are fine-silty.  
+Gallime soils: have an A horizon with a thickness of 51 cm (20 in) or more.  Naldo, Vesey, and Whakana soils: have mixed mineralogy.
+
+GEOGRAPHIC SETTING:  
+Parent material: sandy and loamy residuum derived from sandstone
+Landscape: dissected plains
+Landform: hillslopes
+Slope: 0 to 12 percent
+Mean annual precipitation: 965 to 1168 mm (38 to 46 in)
+Thornthwaite P-E Index: 62 to 76
+Mean annual air temperature: 16.7 to 18.9 degrees C (62 to 66 degrees F). The climate is warm to sub humid.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Boswell, Hamden, Larue, and Romia series.  
+Boswell soils: are on similar slopes, have a fine argillic horizon, and vertic properties.  
+Bosville soils: are on similar to lower positions, have a fine particle-size control section and aquic moisture regime.
+Hamden soils: are on broad slightly concave ridges and have gray mottles in the upper part of the argillic horizon.  
+Larue soils: are on broad smooth ridges and have an A horizon with a thickness of 51 cm (20 in) or more.  
+Romia soils: are mostly on ridgecrests and have sandstone bedrock at a depth of 102 to 152 cm (40 to 60 in).
+
+DRAINAGE AND PERMEABILITY:  
+Drainage class: well 
+Permeability class: moderate
+Runoff: very low to medium
+
+USE AND VEGETATION:  Primarily used for tame pasture plants or woodland.  Bermudagrass is the principal pasture grass.  The main field crops are wheat, grain sorghum, peanuts, soybeans, and cotton.  Native vegetation is mainly oak, with an understory of grass.
+
+DISTRIBUTION AND EXTENT:  
+General area: Eastern Oklahoma, possibly Arkansas, Louisiana, and Texas
+Land Resource Region: J - Southwestern Prairies Cotton and Forage Region
+Major Land Resource Area: 87B - Texas Claypan Area, Northern Part, 133B- Western Coastal Plain
+Extent: moderate
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED:  Bryan County, Oklahoma; 1975.
+
+REMARKS:  
+Diagnostic horizons and features recognized in this pedon are:
+Particle size control section: 38 to 88 cm (15 to 35 in). (Bt1 horizon)
+Ochric epipedon: 0 to 38 cm (0 to 15 in). (A and E horizons)
+Albic horizon: 18 to 38 cm (7 to 15 in). (E horizon)
+Argillic horizon: 38 to 122 cm (15 to 48 in). (Bt1 and Bt2 horizons)
+Glossic horizon: 122 to 173 cm (48 to 68 in). (Bt and E' horizon)
+
+The Bernow series formerly was included with the Bernaldo and Naldo series and was classified in the Red-Yellow Podzolic great soil group.
+
+National Cooperative Soil Survey
+U.S.A.
