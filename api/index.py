@@ -1,11 +1,13 @@
-from flask import Flask, request, jsonify
+import os
+import random
+import re
+from flask import Flask, jsonify, request
 from flask_cors import CORS
-import os, random, re
 
 app = Flask(__name__)
 CORS(app)
 
-BASE_DIR = "text-files"  # Change this to your actual directory
+BASE_DIR = os.path.join(os.getcwd(), "text-files")  # Correct path to the text-files directory
 selected_file = None
 
 def censor_filename(text, filename):
@@ -17,7 +19,8 @@ def censor_filename(text, filename):
 def random_file():
     global selected_file
 
-    subdir = random.choice([chr(i) for i in range(65, 91)])
+    # Choose a random letter directory (A-Z) from the text-files folder
+    subdir = random.choice([chr(i) for i in range(65, 91)])  # Choose a random letter A to Z
     path = os.path.join(BASE_DIR, subdir)
 
     if not os.path.exists(path):
