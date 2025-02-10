@@ -36,7 +36,7 @@ def random_file():
         content = file.read()
 
     censored_content = censor_filename(content, selected_file)
-    return jsonify({"content": censored_content})
+    return jsonify({"censored": censored_content, "uncensored": content})
 
 @app.route("/guess", methods=["POST"])
 def guess_filename():
@@ -49,7 +49,7 @@ def guess_filename():
     actual_filename = os.path.splitext(selected_file)[0].lower()
 
     if user_guess == actual_filename:
-        return jsonify({"message": "Correct! You guessed the filename."})
+        return jsonify({"message": "Correct! You guessed the soil name."})
     else:
         return jsonify({"message": "Incorrect. Try again!"})
 
