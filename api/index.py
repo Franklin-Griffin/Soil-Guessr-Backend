@@ -19,18 +19,19 @@ def censor_filename(text, filename):
 def random_file():
     global selected_file
 
-    subdir = random.choice([chr(i) for i in range(65, 91)])  # Random letter directory A-Z
-    path = os.path.join(BASE_DIR, subdir)
+    all_files = []
+    for subdir in os.listdir(BASE_DIR):
+        path = os.path.join(BASE_DIR, subdir)
+        if os.path.isdir(path):  # Ensure it's a directory
+            txt_files = [f for f in os.listdir(path) if f.endswith(".txt")]
+            for file in txt_files:
+                all_files.append((subdir, file))  # Store both subdir and filename
 
-    if not os.path.exists(path):
-        return "No such directory.", 404
-
-    files = [f for f in os.listdir(path) if f.endswith(".txt")]
-    if not files:
+    if not all_files:
         return "No text files found.", 404
 
-    selected_file = random.choice(files)
-    file_path = os.path.join(path, selected_file)
+    selected_subdir, selected_file = random.choice(all_files)
+    file_path = os.path.join(BASE_DIR, selected_subdir, selected_file)
 
     with open(file_path, "r", encoding="utf-8") as file:
         content = file.read()
